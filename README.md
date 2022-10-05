@@ -4,10 +4,10 @@ This branch contains the dataset for the experiment evaluating whether the use o
 This division of the long movements resulted in a total of 23 self-contained units, which were divided into two datasets: a DF Dataset where the dissonance filter would be activated during the correction process, and a NDF Dataset where no dissonance filter would be used during correction. To guarantee a balanced dataset, the pieces were arranged so that the DF and NDF datasets have the same average number of measures, voices, and illegal dissonances. We also made sure that each dataset had close to the same number of CPDL transcriptions to use as a reference, providing another musician’s interpretation of where the mistakes are found and how to fix them. The two datasets are shown in the tables below.
 
 #### NDF Dataset
-![nd_dataset](https://user-images.githubusercontent.com/13948831/193986677-e86cd4e7-73a3-4605-a758-1c4eded168f3.png)
+<img width="872" alt="dataset_ndf" src="https://user-images.githubusercontent.com/13948831/194136283-de9fa806-831a-4276-9b7d-08e02a43b3d3.png">
 
 #### DF Dataset
-![df_dataset](https://user-images.githubusercontent.com/13948831/193986660-473370bf-3be3-4cb7-9d4b-9a63f81f5464.png)
+<img width="870" alt="dataset_df" src="https://user-images.githubusercontent.com/13948831/194136302-ecaa2cff-9d49-44d7-a230-c71b9b882134.png">
 
 
 ## Results
@@ -15,7 +15,7 @@ This division of the long movements resulted in a total of 23 self-contained uni
 The observations for each piece are summarized in [Appendix C](Appendix%20C.pdf). The correction time can be seen in the following tables.
 
 #### NDF Correction Time Results
-![nd_results](https://user-images.githubusercontent.com/13948831/193986689-09fae584-d251-4e58-9c75-03541442891c.png)
+<img width="1333" alt="results_ndf" src="https://user-images.githubusercontent.com/13948831/194136341-aa9b79ef-16e2-4068-8f36-5c1d4ec29af8.png">
 
 #### DF Correction Time Results
-![df_results](https://user-images.githubusercontent.com/13948831/193986705-9b42c3a0-d7a2-4baa-bd71-37a81d067794.png)
+<img width="1333" alt="results_df" src="https://user-images.githubusercontent.com/13948831/194136367-3e8dd945-395a-4605-9d2b-50a49c09031b.png">
