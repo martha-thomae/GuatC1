@@ -36,7 +36,7 @@ Remaining orange labels after editorial corrections:
 No Editorial corrections
 
 Remaining orange labels after editorial corrections:
-- One in Superius (near the beginning, measure 12), **? - ascending stepwise series of semiminims** (Same in CPDL.)
+- One in Superius (near the beginning, measure 12), **? - ascending stepwise sequence of semiminims** (Same in CPDL.)
 - Two in Altus, **rearticulations**
 - Another in Altus (near the end), **?**
  (D semiminim sounding against an A in the tenor, which as acting as the lowest voice, forming a fourth with the lowest voice; and sounding against a C in the superius. ***This dissonant D semiminim is approached and left by a leap.*** Same in CPDL.)
