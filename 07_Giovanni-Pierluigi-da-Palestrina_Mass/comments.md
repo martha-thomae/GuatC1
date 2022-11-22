@@ -25,8 +25,12 @@ No orange labels in the first place
 ## Credo
 ### Full Movement
 
-FALTA CREDO!!!!!
+- No Editorial corrections (before change of triple meter section)
+- Extend the last note in the Superius (in the section following the triple meter section)
+- Extend the antepenultimate note in the Tenor (in the section following the triple meter section)
 
+Remaining orange labels after editorial corrections:
+- One in Altus (before change to triple meter section), **rearticulation**
 
 
 ## Sanctus
