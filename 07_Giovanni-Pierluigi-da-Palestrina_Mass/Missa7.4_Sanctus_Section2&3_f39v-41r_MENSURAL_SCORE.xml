@@ -171,7 +171,7 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef midi.bpm="600">
+                    <scoreDef midi.bpm="200">
                         <staffGrp symbol="bracket">
                             <staffDef n="1" lines="5" notationtype="mensural.white" xml:id="superius" clef.shape="C" clef.line="1">
                                 <label>superius</label>
@@ -413,8 +413,15 @@
                                 <note xml:id="PARTb02a9704-d688-4fd2-8159-2ee9fb11f18a_A8b89d74f-a30e-46df-a490-100302887dce" dur="semibrevis" oct="4" pname="e"/>
                                 <note xml:id="PARTb02a9704-d688-4fd2-8159-2ee9fb11f18a_Ad91f4bfe-32c2-4158-873e-52e406b75ace" dur="minima" oct="4" pname="d"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTb02a9704-d688-4fd2-8159-2ee9fb11f18a_Ac87b8ee0-2573-4ec9-8ad3-524d344fc036" dur="brevis" oct="4" pname="e"/>
-                                <barLine form="dashed"/>
+                                <choice>
+                                    <corr>
+                                        <note xml:id="PARTb02a9704-d688-4fd2-8159-2ee9fb11f18a_Ac87b8ee0-2573-4ec9-8ad3-524d344fc036" dur="brevis" oct="4" pname="e" num="1" numbase="6"/>
+                                    </corr>
+                                    <sic>
+                                        <note xml:id="PARTb02a9704-d688-4fd2-8159-2ee9fb11f18a_Ac87b8ee0-2573-4ec9-8ad3-524d344fc036" dur="brevis" oct="4" pname="e"/>
+                                    </sic>
+                                </choice>
+                                <barLine form="end"/>
                             </layer>
                         </staff>
                         <staff n="2">
@@ -664,7 +671,7 @@
                                 <note xml:id="PART31fe53f0-2629-4523-843c-f4597e8dae3b_Ac7958c66-b59c-4e01-95c6-426a0ecafab4" dur="semibrevis" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="PART31fe53f0-2629-4523-843c-f4597e8dae3b_A8d1a8216-5210-4590-98c5-96ff1d6bcc1e" dur="longa" oct="3" pname="b"/>
-                                <barLine form="dashed"/>
+                                <barLine form="end"/>
                             </layer>
                         </staff>
                         <staff n="3">
@@ -913,13 +920,17 @@
                                 <barLine form="dashed"/>
                                 <choice>
                                     <corr>
-                                        <note xml:id="m-cd8a2b43-4726-4391-94b7-b5c2c4cc903a" dur="longa" oct="3" pname="g"/>
+                                        <note xml:id="m-cd8a2b43-4726-4391-94b7-b5c2c4cc903a" dur="longa" oct="3" pname="g">
+                                            <accid accid="s" func="edit"/>
+                                        </note>
                                     </corr>
                                     <sic>
-                                        <note xml:id="PARTbe5e07eb-706c-463f-bb51-398f0393105f_A6de98551-5aa1-4996-9ed5-b5cb1b0d67e3" dur="brevis" oct="3" pname="g"/>
+                                        <note xml:id="PARTbe5e07eb-706c-463f-bb51-398f0393105f_A6de98551-5aa1-4996-9ed5-b5cb1b0d67e3" dur="brevis" oct="3" pname="g">
+                                            <accid accid="s" func="edit"/>
+                                        </note>
                                     </sic>
                                 </choice>
-                                <barLine form="dashed"/>
+                                <barLine form="end"/>
                             </layer>
                         </staff>
                         <staff n="4">
@@ -1175,7 +1186,7 @@
                                 <note xml:id="PART1c1566d8-3590-4066-9667-116885e18404_A93b564e4-2769-4bf5-9ee0-1e2682806e65" dur="semibrevis" oct="2" pname="a"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="PART1c1566d8-3590-4066-9667-116885e18404_A8cc1b59f-9040-439b-a7ce-be379dafa090" dur="longa" oct="3" pname="e"/>
-                                <barLine form="dashed"/>
+                                <barLine form="end"/>
                             </layer>
                         </staff>
                     </section>
