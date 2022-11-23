@@ -10,6 +10,9 @@ No Editorial corrections
 Remaining orange labels after editorial corrections:
 - One in Superius (Kyrie I at the end), **rearticulation**
 
+NOTE: Weird accidental in tenor, an A# (the sharp is physically written), but disonant against the other As sounding in the other two voices. This Kyrie II is different from that on Missarum Liber 2dus, so I cannot compare it to it. Probably the sharp in the A (tenor) is a mistake (so far only G has sharps).
+
+NOTE: The ending is also weird (tenor). (Check your article for a better solution.)
 
 
 ## Gloria
@@ -32,6 +35,8 @@ No orange labels in the first place
 Remaining orange labels after editorial corrections:
 - One in Altus (before change to triple meter section), **rearticulation**
 
+NOTE: Check ending again (can compare with Missarum Liber secundus) ? (tenor)
+
 
 ## Sanctus
 ### Section 1 (Sanctus)
@@ -49,6 +54,7 @@ Editorial corrections:
 
 No remaining orange labels after editorial corrections
 
+NOTE: Check ending against Missarum Liber secundus ?
 
 
 ## Agnus Dei I
@@ -60,7 +66,7 @@ Remaining orange labels after editorial corrections:
 - One orange label (Superius, measure 7), **ascending stepwise sequence of semiminims**
 
 
-
-
 ## Agnus Dei II
 ### Full Movement
+
+MISSING
