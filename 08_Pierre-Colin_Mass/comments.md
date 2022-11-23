@@ -19,3 +19,14 @@ Editorial corrections:
 Remaining orange labels after editorial corrections:
 - One in Tenor, **rearticulation**
 - One in Superius, **?**
+
+
+## Credo 
+### Section 1 & 2 (Patrem omnipotentem & Et incarnatus)
+
+Editorial corrections:
+- Add semibreve rest in Tenor, betweeen longa and minim rest (measure 3)
+
+Remaining orange labels after editorial corrections:
+- Two in Superius, **?**
+
