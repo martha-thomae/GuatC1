@@ -53,7 +53,6 @@ Editorial corrections:
 
 No remaining orange labels after editorial corrections
 
-NOTE: Check ending against Missarum Liber secundus ?
 
 
 ## Agnus Dei I
