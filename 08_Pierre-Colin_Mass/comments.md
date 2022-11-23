@@ -46,12 +46,29 @@ Remaining orange labels after editorial corrections:
 
 ### Section 4 (Et iterum venturus est)
 
+Editorial corrections:
+- Remove augmentation dot in dotted semibreve in Superius (measure 15-16)
+- Change semibreve to semiminima (measure 25)
+
+Remaining orange labels after editorial corrections:
+- One in Bassus (third measure towards the end), **rearticulation** 
+- One in Tenor (third measure towards the end), **?**
 
 
 ## Sanctus
 ### Full Movement
 
+Editorial corrections: not really
+- Extending the last note in the tenor
+
+Remaining orange labels after editorial corrections:
+- One in Superius, **rearticulation**
 
 
 ## Agnus Dei 
 ### Full Movement
+
+No editorial corretions
+
+Remaining orange labels:
+- Two in Superius, both **rearticulations**
