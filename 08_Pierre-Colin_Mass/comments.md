@@ -30,3 +30,28 @@ Editorial corrections:
 Remaining orange labels after editorial corrections:
 - Two in Superius, **?**
 
+
+### Sections 3 (Crucifixus)
+
+Editorial corrections:
+- Remove augmentation dot in semibreve in the Tenor (measure 11-12)
+
+**Check if this edit is alright, or if the previous rests are the ones to be removed or reduced.**
+
+***We have a cadence to C in measures 6 to 7 (Superius & Alto & Tenor), then a cadence to F in measures 9 to 10 (Alto & Tenor), and then a misaligned cadence to F in measures 13 to 14 (Superius & Tenor). The issue must be between the last two cadences (between measures 10 and 14, the edit of reducing a minim could apply to the note I changed or to the rests)***
+
+Remaining orange labels after editorial corrections:
+- Two, one in Superius and one in Tenor, both are **rearticulations**
+
+
+### Section 4 (Et iterum venturus est)
+
+
+
+## Sanctus
+### Full Movement
+
+
+
+## Agnus Dei 
+### Full Movement
