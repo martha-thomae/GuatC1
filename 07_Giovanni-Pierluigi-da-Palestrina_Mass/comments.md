@@ -35,7 +35,6 @@ No orange labels in the first place
 Remaining orange labels after editorial corrections:
 - One in Altus (before change to triple meter section), **rearticulation**
 
-NOTE: Check ending again (can compare with Missarum Liber secundus) ? (tenor)
 
 
 ## Sanctus
