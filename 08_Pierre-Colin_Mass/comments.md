@@ -9,7 +9,7 @@ No editorial corrections
 
 No orange labels in the first place
 
-**CONSULT: The places with an Eb sound weird**
+**CONSULT: The places with an Eb still sound weird**
 
 
 ## Gloria
@@ -33,8 +33,6 @@ Editorial corrections:
 
 Remaining orange labels after editorial corrections:
 - Two in Superius, **?**
-
-**SOUNDS GOOD WITH THE ALTO CORRECTED FOR AN EDITORIAL E FLAT**
 
 
 ### Sections 2 (Crucifixus)
