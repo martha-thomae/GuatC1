@@ -80,10 +80,18 @@ Remaining orange labels after editorial corrections:
 - One in the Altus (same measure, section 2), **?**
 
 
-### Section 2 (Osanna)
-
-
-
-## Agnus Dei 
+## Agnus Dei I
 ### Full Movement
 
+Editorial corrections:
+- Shorten the note at the end of the Superius, Tenor, and Bassus (section 1)
+- ...
+
+Missing minim in altus (section 2)
+Shorten last note in tenor (section 2)
+
+
+## Agnus Dei II
+### Full Movement
+
+MISSING - BASSUS IN SUB-DIAPASON!
