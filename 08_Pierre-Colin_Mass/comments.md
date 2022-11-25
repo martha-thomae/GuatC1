@@ -11,6 +11,7 @@ No orange labels in the first place
 
 **CONSULT: The places with an Eb sound weird**
 
+
 ## Gloria
 ### Full Movement
 
@@ -21,6 +22,8 @@ Remaining orange labels after editorial corrections:
 - One in Tenor, **rearticulation**
 - One in Superius, **?**
 
+**CONSULT: Antepenultimate measure sounds wrong! Again with the Eb happening**
+
 
 ## Credo 
 ### Section 1 (Patrem omnipotentem & Et incarnatus)
@@ -30,6 +33,8 @@ Editorial corrections:
 
 Remaining orange labels after editorial corrections:
 - Two in Superius, **?**
+
+**SOUNDS GOOD WITH THE ALTO CORRECTED FOR AN EDITORIAL E FLAT**
 
 
 ### Sections 2 (Crucifixus)
@@ -81,7 +86,7 @@ Remaining orange labels:
 - 08.01	Identical
 - 08.02	Identical
 - 08.03.01	Identical
-- 08.03.02	Changed the rest and note the dotted note (removing a minim too)
+- 08.03.02	Changed the rest and kept the dotted note (the change was to remove a minim too, just in the rest rather than in the note)
 - 08.03.03	Different (editorial corrs seem to be in alto, rev.)
 - 08.04	Identical
 - 08.05	Identical
