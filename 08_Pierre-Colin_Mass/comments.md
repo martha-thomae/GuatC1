@@ -38,11 +38,7 @@ Remaining orange labels after editorial corrections:
 ### Sections 2 (Crucifixus)
 
 Editorial corrections:
-- Remove augmentation dot in semibreve in the Tenor (measure 11-12)
-
-**Check if this edit is alright, or if the previous rests are the ones to be removed or reduced.**
-
-***We have a cadence to C in measures 6 to 7 (Superius & Alto & Tenor), then a cadence to F in measures 9 to 10 (Alto & Tenor), and then a misaligned cadence to F in measures 13 to 14 (Superius & Tenor). The issue must be between the last two cadences (between measures 10 and 14, the edit of reducing a minim could apply to the note I changed or to the rests). CPDL APPLIES THE CHANGE TO THE RESTS (REMOVED A MINIM).***
+- Remove minim rest in the Tenor (measure 11)
 
 Remaining orange labels after editorial corrections:
 - Two, one in Superius and one in Tenor, both are **rearticulations**
@@ -51,8 +47,8 @@ Remaining orange labels after editorial corrections:
 ### Section 3 (Et iterum venturus est)
 
 Editorial corrections:
-- Remove augmentation dot in dotted semibreve in Superius (measure 15-16) [COINCIDES WITH CPDL]
-- Change semibreve to semiminima (measure 25) [No, CPDL transcriber does changes a bit earlier. He removes the extra dotted minim by shortening a dotted semibreve, located 5 notes before, to a dotted minim]
+- Remove augmentation dot in dotted semibreve in Superius (measure 15-16)
+- Change semibreve to semiminima (measure 29)
 
 Remaining orange labels after editorial corrections:
 - One in Bassus (third measure towards the end), **rearticulation** 
@@ -76,13 +72,3 @@ No editorial corretions
 
 Remaining orange labels:
 - Two in Superius, both **rearticulations**
-
-
-## Summary about CPDL comparison:
-- 08.01	Identical
-- 08.02	Identical
-- 08.03.01	Identical
-- 08.03.02	Changed the rest and kept the dotted note (the change was to remove a minim too, just in the rest rather than in the note)
-- 08.03.03	Different (editorial corrs seem to be in alto, rev.)
-- 08.04	Identical
-- 08.05	Identical
