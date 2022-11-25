@@ -9,6 +9,7 @@ No editorial corrections
 
 No orange labels in the first place
 
+**CONSULT: The places with an Eb sound weird**
 
 ## Gloria
 ### Full Movement
