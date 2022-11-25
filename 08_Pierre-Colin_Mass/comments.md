@@ -51,10 +51,8 @@ Remaining orange labels after editorial corrections:
 ### Section 3 (Et iterum venturus est)
 
 Editorial corrections:
-- Remove augmentation dot in dotted semibreve in Superius (measure 15-16)
-- Change semibreve to semiminima (measure 25)
-
-**REVIEW: SINCE THE CHANGE OF CPDL IS IN THE ALTO**
+- Remove augmentation dot in dotted semibreve in Superius (measure 15-16) [COINCIDES WITH CPDL]
+- Change semibreve to semiminima (measure 25) [No, CPDL transcriber does changes a bit earlier. He removes the extra dotted minim by shortening a dotted semibreve, located 5 notes before, to a dotted minim]
 
 Remaining orange labels after editorial corrections:
 - One in Bassus (third measure towards the end), **rearticulation** 
