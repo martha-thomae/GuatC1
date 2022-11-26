@@ -20,7 +20,15 @@ Both are **rearticulations** of the same pitch in the given voice
 ## Gloria
 ### Section 1 (Et in terra pax)
 
-....
+Editorial correction:
+- Missing semibreve rest (measure 6) before minim rest in the Bassus. One can see it added in the manuscript by a second hand.
+
+No remaining orange labels after editorial corrections
+
+**Note for myself in terms of how I was able to find this error:**
+Cadences didn't help me personally in this case. So I used page turns as places for voices to coincide (could do it with fermatas or congruence signs I guess). After that, I could look for the 1st place where the series of orange labels appear, and found it is around measure 6 so we try to find the error in the bass before that point.
+
+Another way coudl be noticing that extending the last note is not enough to remove the series of orange labels, therefore we look for the 1st place where the series of orange labels appear, and found it is around measure 6 so we try to find the error in the bass before that point.
 
 
 ### Section 2 (Qui tollis peccata mundi)
@@ -56,7 +64,7 @@ Editorial corrections: not really
 
 Remaining orange labels:
 - One in the Tenor (measure 14), one in the Superius and Bassus (measure 27), **rearticulation**
-- One in Tenor (measure 27) and one in the Bassus (measure 31), **?**
+- One in Tenor (measure 27) and one in the Bassus (measure 31), **? - we could move the minim in measure 27 in the altus up or down to remove that dissonance (the tenor seems to be following a pattern) OR leave it and think of it as a G7. Measure 31 looks ok: D, F, A; but the tenor's D is forming a FOURTH ABOVE THE BASS's A. REV AGAINST CPDL FOR THESE TWO CASES!**
 
 
 ### Section 4 (Et in spiritus)
@@ -65,8 +73,8 @@ Editorial corrections:
 - Shorten the last note in the Bassus
 - Extend minim to a semibreve in Tenor (measure 5 from the end)
 
-Remaining orange labels after editorial corrections:
-- ...
+No remaining orange labels after editorial corrections
+
 
 
 ## Sanctus
@@ -76,8 +84,8 @@ Editorial corrections: not really
 - Extend last note in the Altus (section 1)
 
 Remaining orange labels after editorial corrections:
-- One in the Tenor (section 2), **rearticulations**
-- One in the Altus (same measure, section 2), **?**
+- Two in the Tenor (section 2), **rearticulations**
+- One in the Altus (same measure, section 2), **? - it is forming a fourth with the bass, so that is illegal - maybe move it down a second so that the illegal dissonance dissapears and that it has the same pitch as the minims preceding and following??? - AND THEN ALL ILLEGAL DISSON DISSAPEAR COMPLETELY**
 
 
 ## Agnus Dei I
@@ -87,8 +95,11 @@ Editorial corrections:
 - Shorten the note at the end of the Superius, Tenor, and Bassus (section 1)
 - ...
 
-Missing minim in altus (section 2)
+--->  Missing minim in altus (section 2) --> add a minim after a semibreve to resolve a suspension **????**
 Shorten last note in tenor (section 2)
+
+No remaining orange labels after editorial corrections
+
 
 
 ## Agnus Dei II
