@@ -36,8 +36,9 @@ def main(in_directory, out_directory):
                         
                         dur = element.getAttribute('dur')
                         nshape = noteshapes[dur]
-                        if (element.nextSibling.nextSibling.nodeName == 'dot'):
-                            nshape = nshape + '-dot'
+                        if (element.nextSibling.nextSibling):
+                            if (element.nextSibling.nextSibling.nodeName == 'dot'):
+                                nshape = nshape + '-dot'
                         
                         noteval = abspitch + '_' + nshape
                         part_events.append(noteval)
@@ -90,8 +91,9 @@ def main(in_directory, out_directory):
 
                                         dur = grandchild.getAttribute('dur')
                                         nshape = noteshapes[dur]
-                                        if (element.nextSibling.nextSibling.nodeName == 'dot'):
-                                            nshape = nshape + '-dot'
+                                        if (element.nextSibling.nextSibling):
+                                            if (element.nextSibling.nextSibling.nodeName == 'dot'):
+                                                nshape = nshape + '-dot'
 
                                         noteval = abspitch + '_' + nshape
                                         part_events.append(noteval)

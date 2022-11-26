@@ -61,6 +61,7 @@ No orange labels remaining after editorial corrections
 
 Editorial corrections: not really
 - Extend last note in the Tenor
+ **[IN CPDL, THEY DIDN'T EXTEND THAT NOTE. THEY ADDED A SEMIBREVE QUITE A FEW MEASURES BEFORE. IN MEASURE 26, AFTER THE TWO MINIMS IN G AND A (AND BEFORE THE MINIM REST), THEY ADDED A SEMIBREVE IN B-FLAT AN OCTAVE BELOW] YOU SHOULD CHECK IF THIS GETS RID OF THE WEIRD ORANGE LABELS YOU HAVE IN MEASURE 27 AND 31**
 
 Remaining orange labels:
 - One in the Tenor (measure 14), one in the Superius and Bassus (measure 27), **rearticulation**
@@ -72,6 +73,7 @@ Remaining orange labels:
 Editorial corrections:
 - Shorten the last note in the Bassus
 - Extend minim to a semibreve in Tenor (measure 5 from the end)
+ **[IN CPDL, THEY LEFT IT AS IT WAS AND, INSTEAD, THEY JUST EXTENDED THE LAST NOTE OF THE TENOR (TO COVER THE REST OF THE MEASURE BY BEING A MINIM LONGER) - I THINK MY SOLUTION IS BETTER, BUT I WILL HAVE TO CHECK HOW MANY ORANGE LABELS DOES IT REMOVE]**
 
 No remaining orange labels after editorial corrections
 
@@ -106,3 +108,15 @@ No remaining orange labels after editorial corrections
 ### Full Movement
 
 MISSING - BASSUS IN SUB-DIAPASON!
+
+
+CPDL COMMENTS
+09.01	Identical, except for the passage in Christe's tenor (four measures before the end) where the semiminims are in triplets in cpdl (reducing things by a minim). You achieved this reduction by reducing an F semibreve---located two notes before---to a minim.
+09.02.01	Identical
+09.02.02	Identical
+09.03.01	Identical
+09.03.02	No real difference (last notes)
+09.03.03	Diffs (see COMMENTS above)
+09.03.04	Diffs (see COMMENTS above)
+09.04	The pitch-related editorial correction (to remove the fourth above the bass) is not done in cpdl (might not be important, maybe take it out)
+09.05	

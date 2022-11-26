@@ -43,35 +43,45 @@ def main(directory, mass_no, reduction):
                         part_events.append([abspitch, dur_16th, tied_to_next])
                 parts_list.append(part_events)
 
-            noteshapes_optDefault = {64: 'Max', 32: 'L', 16: 'B', 8: 'Sb', 4: 'M', 2: 'sm', 1: 'F', 
+            noteshapes_opt2 = {64: 'Max', 32: 'L', 16: 'B', 8: 'Sb', 4: 'M', 2: 'sm', 1: 'F', 
             96: 'Max-dot', 48: 'L-dot', 24: 'B-dot', 12:'Sb-dot', 6: 'M-dot', 3: 'sm-dot'}
-            noteshapes_optReduct = {32: 'Max', 16: 'L', 8: 'B', 4: 'Sb', 2: 'M', 1: 'sm', 
+            noteshapes_opt1 = {32: 'Max', 16: 'L', 8: 'B', 4: 'Sb', 2: 'M', 1: 'sm', 
             48: 'Max-dot', 24: 'L-dot', 12:'B-dot', 6: 'Sb-dot', 3: 'M-dot'}
-            
+            noteshapes_opt3 = {96: 'Max', 48: 'L', 24: 'B', 12: 'Sb', 6: 'M', 3: 'sm', 2: 'sm-TRIPLETS',
+            144: 'Max-dot', 72: 'L-dot', 36: 'B-dot', 18: 'Sb-dot', 9: 'M-dot'}
+
             # Depending on the option
-            if (reduction):
-                noteshapes = noteshapes_optReduct
-                textfilename = mass_no + '/tokens_cpdl/reduction/'
-            else:
-                noteshapes = noteshapes_optDefault
-                textfilename = mass_no + '/tokens_cpdl/default/'
+            if (reduction == '3'):
+                noteshapes = noteshapes_opt3
+                textfilename = mass_no + '/tokens_cpdl/fusa_3beats/'
+            elif (reduction == '2'):
+                noteshapes = noteshapes_opt2
+                textfilename = mass_no + '/tokens_cpdl/fusa_2beats/'
+            elif (reduction == '1'):
+                noteshapes = noteshapes_opt1
+                textfilename = mass_no + '/tokens_cpdl/fusa_1beats/'
 
             parts_list2 = []
             for part_events in parts_list:
-                # Start the veriables for processing one part
-                dur_16th = 0
-                part_events2 = []
-                for event in part_events:
-                    if event[2] == True:
-                        dur_16th = int(event[1])
-                    else:
-                        dur_16th = dur_16th + int(event[1])
-                        nshape = noteshapes[dur_16th]
-                        noteval = event[0] + '_' + nshape
-                        part_events2.append(noteval)
-                        # Restart dur_16 variable
-                        dur_16th = 0
-                parts_list2.append(part_events2)
+                try:
+                    # Start the veriables for processing one part
+                    dur_16th = 0
+                    part_events2 = []
+                    for event in part_events:
+                        if event[2] == True:
+                            dur_16th = int(event[1])
+                        else:
+                            dur_16th = dur_16th + int(event[1])
+                            nshape = noteshapes[dur_16th]
+                            noteval = event[0] + '_' + nshape
+                            part_events2.append(noteval)
+                            # Restart dur_16 variable
+                            dur_16th = 0
+                    parts_list2.append(part_events2)
+                except KeyError as err:
+                    parts_list2 = []
+                    print(err)
+                    break
 
             textfilename = textfilename + filename[:-9] + '.txt'
             with open (textfilename, 'w') as f:
@@ -87,7 +97,7 @@ def main(directory, mass_no, reduction):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('mass_number', help="Two-digit number indicating the number of the piece in the manuscript (e.g., 06 or 11)")
-    parser.add_argument('-r', '--reduction', action="store_true", help="reduction ratio flag; when true, maxima 32 beats (rather than 64, which is the default when the flat is not acitvated)")
+    parser.add_argument('-r', choices=['1', '2', '3'], help="reduction ratio")
     args = parser.parse_args()
     directory = args.mass_number + "/_cpdl-music-xmls/"
-    main(directory, args.mass_number, args.reduction)
+    main(directory, args.mass_number, args.r)
