@@ -98,7 +98,7 @@ Editorial corrections:
 - ...
 
 --->  Missing minim in altus (section 2) --> add a minim after a semibreve to resolve a suspension **????**
-Shorten last note in tenor (section 2)
+Shorten last note in tenor OR augmented the ones in the other 3 voices (section 2)
 
 No remaining orange labels after editorial corrections
 
