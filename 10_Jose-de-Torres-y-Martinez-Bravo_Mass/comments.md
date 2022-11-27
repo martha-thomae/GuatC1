@@ -42,6 +42,14 @@ Remaining orange labels explained in thesis: either part of a chord or doubling 
 ## Sanctus
 ### Full Movement
 
+Editorial corrections:
+- Add a dot to a minim preceding a semiminim to fix the barring in Bassus (section 1). The dot can be seen in the manuscript, but it is not immediately follow the minim. The minim is at the end of a system, and the dot is at the beginning of the next system.
+- Switch the sequence: semiminim + dot + minim. Now it is minim + dot + semiminim, which reads as dotted minim and semiminim. And this adds the fusa that was missing in the voice (Altus, section 2).
+
+Remaining orange labels after editorial corrections;
+- Two in Altus, section 2, **?**
+- Others are **rearticulations**
+
 
 
 ## Agnus Dei I
