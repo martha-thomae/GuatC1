@@ -22,7 +22,7 @@ One orange label due to a fourth above the bass (the bass has a D, and the super
 No editorial corrections
 
 Remaining orange labels:
-- Weak beat, 2 rearticulations, maybe fake suspension
+- Weak beat, 4 rearticulations, maybe fake suspension, and another
 
 
 ## Credo 
