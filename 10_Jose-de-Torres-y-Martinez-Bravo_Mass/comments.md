@@ -26,13 +26,13 @@ Remaining orange labels:
 
 
 ## Credo 
-### Section 1 (Patrem omnipotentem)
+### Section 1 & 2 (Patrem omnipotentem & Et incarnatus est)
 
 
+### Sections 3 (Crucifixus)
+No editorial corrections
 
-
-### Sections 2 & 3 (Et incarnatus est & Crucifixus)
-
+Remaining orange labels explained in thesis: either part of a chord or doubling the agent
 
 
 ### Section 4 (Et in spiritus)
@@ -44,6 +44,12 @@ Remaining orange labels:
 
 
 
-## Agnus Dei
+## Agnus Dei I
 ### Full Movement
+No editorial corrections
 
+Remaining orange labels explained in thesis
+
+
+## Agnus Dei II
+### Full Movement
