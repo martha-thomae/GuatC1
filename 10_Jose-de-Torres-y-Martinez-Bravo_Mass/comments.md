@@ -37,6 +37,11 @@ Remaining orange labels explained in thesis: either part of a chord or doubling 
 
 ### Section 4 (Et in spiritus)
 
+Corrections:
+- 2 OMR errors, tied minims converted into semibreves (altus system 5 in 80r to system 1 in 81r, and bassus system break 8 to 9 in 80r). The bassus was facilitated by an orange label (rearticulation), then I checked for other missing ties and found the altus one.
+- Editorial correction: see thesis (minim to semibreve in measure 57, altus)
+
+Remainig orange labels are all rearticulations (except for three which show the co-existence of fake suspensions and seventh chords, see thesis)
 
 
 ## Sanctus
