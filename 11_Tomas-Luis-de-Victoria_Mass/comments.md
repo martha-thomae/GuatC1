@@ -43,13 +43,14 @@ Remaining: three = two in altus + one in tenor (see screenshot)
 
 ### Section 2
 
-STILL TO PROCESS !!!!
+**!!!! STILL TO PROCESS !!!!**
 
 
 ### Section 3
 
-STILL TO PROCESS !!!!
+Correction: Add a semibreve rest in tenor (at the beginning of the third system, after the starting breve). It might have been in the manuscript, but there is a hole in the area.
 
+Orange labels left after the corrections: just two, both rearticulations.
 
 ---
 
