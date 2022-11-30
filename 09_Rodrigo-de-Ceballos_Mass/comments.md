@@ -112,13 +112,13 @@ Completed (thesis feedback: extending last notes in altus and bassus, and only o
 
 
 CPDL COMMENTS
-09.01	Identical, except for the passage in Christe's tenor (four measures before the end) where the semiminims are in triplets in cpdl (reducing things by a minim). You achieved this reduction by reducing an F semibreve---located two notes before---to a minim.
+09.01	Identical, except for the passage in Christe's tenor (four measures before the end) where the semiminims are in triplets in cpdl (reducing things by a minim). You achieved this reduction by reducing an F semibreve---located two notes before---to a minim. --> CONSULT
 09.02.01	Identical
 09.02.02	Identical
 09.03.01	Identical
 09.03.02	No real difference (last notes)
-09.03.03	Diffs (see COMMENTS above)
-09.03.04	Diffs (see COMMENTS above)
-09.04	The pitch-related editorial correction (to remove the fourth above the bass) is not done in cpdl (might not be important, maybe take it out)
-09.05	???
-09.06	As in Thesis
+09.03.03	Diffs (see COMMENTS above) --> CONSULT
+09.03.04	Diffs (see COMMENTS above) --> CONSULT
+09.04	The pitch-related editorial correction (to remove the fourth above the bass) is not done in cpdl (might not be important, maybe take it out) --> CONSULT
+09.05	??? [LOOK AT IT AGAIN AND (IF NEEDED) CONSULT]
+09.06	Thesis

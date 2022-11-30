@@ -71,7 +71,12 @@ Remaining orange labels explained in thesis
 
 
 ## CPDL Comparison
+10.01	Thesis
 10.02.01	Identical
 10.02.02	One difference (probably an error on CPDL)
+10.03.01&02	Thesis
+10.03.03	Thesis
+10.03.04	Thesis
 10.04	Identical (except for one way to correct the dotted semiminim, I prefer my chage, works better on the pattern so far)
-10.06	ASK GEN!!!
+10.05	Thesis
+10.06	!!!!ASK GEN!!!!
