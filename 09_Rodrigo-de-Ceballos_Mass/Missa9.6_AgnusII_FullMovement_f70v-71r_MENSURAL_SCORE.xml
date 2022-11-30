@@ -76,19 +76,19 @@
                             <l>[SUPERIUS]</l>
                         </lg>
                     </incipText>
-                    <incipText label="altus" corresp="#altus">
+                    <incipText label="altus1" corresp="#altus1">
                         <lg>
-                            <l>[ALTUS]</l>
+                            <l>[ALTUS 1]</l>
+                        </lg>
+                    </incipText>
+                    <incipText label="altus2" corresp="#altus2">
+                        <lg>
+                            <l>[ALTUS 2]</l>
                         </lg>
                     </incipText>
                     <incipText label="tenor" corresp="#tenor">
                         <lg>
                             <l>[TENOR]</l>
-                        </lg>
-                    </incipText>
-                    <incipText label="contratenor" corresp="#contratenor">
-                        <lg>
-                            <l>[CONTRATENOR]</l>
                         </lg>
                     </incipText>
                     <incipText label="bassus" corresp="#bassus">
@@ -161,22 +161,22 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef midi.bpm="600">
+                    <scoreDef midi.bpm="200">
                         <staffGrp symbol="bracket">
                             <staffDef n="1" lines="5" notationtype="mensural.white" xml:id="superius" clef.shape="G" clef.line="2">
                                 <label>superius</label>
                                 <mensur modusminor="2" tempus="2" prolatio="2" sign="C"/>
                             </staffDef>
-                            <staffDef n="2" lines="5" notationtype="mensural.white" xml:id="altus" clef.shape="C" clef.line="2">
-                                <label>altus</label>
+                            <staffDef n="2" lines="5" notationtype="mensural.white" xml:id="altus1" clef.shape="C" clef.line="2">
+                                <label>altus I</label>
                                 <mensur modusminor="2" tempus="2" prolatio="2" sign="C"/>
                             </staffDef>
-                            <staffDef n="3" lines="5" notationtype="mensural.white" xml:id="tenor" clef.shape="C" clef.line="2">
+                            <staffDef n="3" lines="5" notationtype="mensural.white" xml:id="altus2" clef.shape="C" clef.line="2">
+                                <label>altus II</label>
+                                <mensur modusminor="2" tempus="2" prolatio="2" sign="C"/>
+                            </staffDef>
+                            <staffDef n="4" lines="5" notationtype="mensural.white" xml:id="tenor" clef.shape="C" clef.line="3">
                                 <label>tenor</label>
-                                <mensur modusminor="2" tempus="2" prolatio="2" sign="C"/>
-                            </staffDef>
-                            <staffDef n="4" lines="5" notationtype="mensural.white" xml:id="contratenor" clef.shape="C" clef.line="3">
-                                <label>contratenor</label>
                                 <mensur modusminor="2" tempus="2" prolatio="2" sign="C"/>
                             </staffDef>
                             <staffDef n="5" lines="5" notationtype="mensural.white" xml:id="bassus" clef.shape="F" clef.line="4">
@@ -378,7 +378,7 @@
                                 <note xml:id="PART77763d2f-96e5-4884-b1ce-a61defcd31d7_Aac18312c-5c3d-4967-9108-5f8eca78d2c0" dur="minima" oct="4" pname="b"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="PART77763d2f-96e5-4884-b1ce-a61defcd31d7_A504755d5-c2be-4fa7-be11-67de2f1340f0" dur="brevis" oct="5" pname="c"/>
-                                <barLine form="dashed"/>
+                                <barLine form="end"/>
                             </layer>
                         </staff>
                         <staff n="2">
@@ -571,13 +571,13 @@
                                 <choice>
                                     <corr>
                                         <note xml:id="m-4aa6bf27-09fa-4d94-b1b8-c289a6cac160" dur="brevis" oct="4" pname="e" dur.quality="perfecta" num="2" numbase="3"/>
-                                        <dot xml:id="m-b9718353-8241-443e-bd21-77caf12b300e" form="aug"/>
+                                        <dot xml:id="m-b9718353-8241-443e-bd21-77caf12b300e" form="aug" color="darkorange"/>
                                     </corr>
                                     <sic>
                                         <note xml:id="PARTff69dc5a-3cce-4144-9178-0a1fcc440796_Aac439fb6-01c9-4cdf-a7a3-77f05012f81b" dur="brevis" oct="4" pname="e"/>
                                     </sic>
                                 </choice>
-                                <barLine form="dashed"/>
+                                <barLine form="end"/>
                             </layer>
                         </staff>
                         <staff n="3">
@@ -722,7 +722,7 @@
                                 <note xml:id="PART6ae4bd9b-8dcc-4a06-9dc2-3f02ab119f9e_A8cc98553-5da2-4282-b3b2-951aa91a30ad" dur="minima" oct="4" pname="g"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="PART6ae4bd9b-8dcc-4a06-9dc2-3f02ab119f9e_Acb42e394-5455-4c6d-b932-bcd8fb67facf" dur="brevis" oct="4" pname="a"/>
-                                <barLine form="dashed"/>
+                                <barLine form="end"/>
                             </layer>
                         </staff>
                         <staff n="4">
@@ -920,7 +920,7 @@
                                 <note xml:id="PART9ee94e49-6192-4e82-a3c7-4ce15ae30532_A069f2d85-d259-4e9f-a48b-e8f0ec9b6520" dur="semibrevis" oct="3" pname="b"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="PART9ee94e49-6192-4e82-a3c7-4ce15ae30532_A5d9888c6-1d92-4c73-8b3b-bad0ce18bf31" dur="brevis" oct="3" pname="a"/>
-                                <barLine form="dashed"/>
+                                <barLine form="end"/>
                             </layer>
                         </staff>
                         <staff n="5">
@@ -1052,7 +1052,7 @@
                                 <barLine form="dashed"/>
                                 <choice>
                                     <corr>
-                                        <note xml:id="m-c9db4180-9476-4201-89f6-6167f8153771" dur="brevis" oct="3" pname="a">
+                                        <note xml:id="m-c9db4180-9476-4201-89f6-6167f8153771" dur="brevis" oct="3" pname="a" color="darkorange">
                                             <verse xml:id="m-bb2a15b2-4ed8-4ec3-8233-bf065410052f" color="black" n="1">
                                                 <syl xml:id="m-7e1198b3-53ce-4113-8924-a15c1ae2178d">S.C.</syl>
                                             </verse>
@@ -1066,7 +1066,7 @@
                                         </note>
                                     </sic>
                                 </choice>
-                                <barLine form="dashed"/>
+                                <barLine form="end"/>
                             </layer>
                         </staff>
                     </section>
