@@ -41,6 +41,15 @@ Editorial correction:
 Remaining: three = two in altus + one in tenor (see screenshot)
 
 
+### Section 2
+
+STILL TO PROCESS !!!!
+
+
+### Section 3
+
+STILL TO PROCESS !!!!
+
 
 ---
 
@@ -61,4 +70,11 @@ No editorial corrections (replace two colored minims by two semiminims as I saw 
 ## Agnus
 ### Full Movement
 
+No editorial corrections.
 
+The only orange labels left are doubling the agent.
+
+---
+
+
+STILL TO VERIFY ALL AGAINST CPDL TO CHECK IT OUT, IN THEORY THEY ARE OK :)
