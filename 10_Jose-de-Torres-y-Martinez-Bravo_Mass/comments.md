@@ -74,4 +74,4 @@ Remaining orange labels explained in thesis
 10.02.01	Identical
 10.02.02	One difference (probably an error on CPDL)
 10.04	Identical (except for one way to correct the dotted semiminim, I prefer my chage, works better on the pattern so far)
-10.06	
+10.06	ASK GEN!!!
