@@ -28,7 +28,7 @@ No remaining orange labels after editorial corrections
 **Note for myself in terms of how I was able to find this error:**
 Cadences didn't help me personally in this case. So I used page turns as places for voices to coincide (could do it with fermatas or congruence signs I guess). After that, I could look for the 1st place where the series of orange labels appear, and found it is around measure 6 so we try to find the error in the bass before that point.
 
-Another way coudl be noticing that extending the last note is not enough to remove the series of orange labels, therefore we look for the 1st place where the series of orange labels appear, and found it is around measure 6 so we try to find the error in the bass before that point.
+Another way could be noticing that extending the last note is not enough to remove the series of orange labels, therefore we look for the 1st place where the series of orange labels appear, and found it is around measure 6 so we try to find the error in the bass before that point.
 
 
 ### Section 2 (Qui tollis peccata mundi)
@@ -107,7 +107,8 @@ No remaining orange labels after editorial corrections
 ## Agnus Dei II
 ### Full Movement
 
-MISSING - BASSUS IN SUB-DIAPASON!
+Completed (thesis feedback: extending last notes in altus and bassus, and only one orange label left which is ignored as it is in a weak beat).
+
 
 
 CPDL COMMENTS
@@ -119,4 +120,5 @@ CPDL COMMENTS
 09.03.03	Diffs (see COMMENTS above)
 09.03.04	Diffs (see COMMENTS above)
 09.04	The pitch-related editorial correction (to remove the fourth above the bass) is not done in cpdl (might not be important, maybe take it out)
-09.05	
+09.05	???
+09.06	As in Thesis
