@@ -39,3 +39,26 @@ Editorial correction:
 - add the ending of bassus as an editorial corr
 
 Remaining: three = two in altus + one in tenor (see screenshot)
+
+
+
+---
+
+## Sanctus
+### Section 1 (Sanctus)
+
+No editorial corrections
+
+Remaining orange labels: two, both in super-weak beats
+
+
+### Section 2 (Osanna) - Triple meter section
+
+No editorial corrections (replace two colored minims by two semiminims as I saw by the barring in the MP Editor these were not meant to be colored notes)
+
+---
+
+## Agnus
+### Full Movement
+
+
