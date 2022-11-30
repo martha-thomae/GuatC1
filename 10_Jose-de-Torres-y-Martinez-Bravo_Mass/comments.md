@@ -28,6 +28,7 @@ Remaining orange labels:
 ## Credo 
 ### Section 1 & 2 (Patrem omnipotentem & Et incarnatus est)
 
+- See thesis comments (two OMR errors, a semibreve rest that should be a minim rest and a tied couple of semibreves that should be a breve; another error only detected by mismatch with the cpdl transcription for which Peter Schuber suggested a better solution, and comments on the remaining orange labels as all of them being either rearticulations or parts of a chord)
 
 ### Sections 3 (Crucifixus)
 No editorial corrections
