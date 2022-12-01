@@ -42,7 +42,7 @@ Editorial correction:
 - dot a minim (the dot is actualy in the manuscript, but it is not next to the minim, but in the next system)
 - add the ending of bassus as an editorial corr
 
-Remaining: three = two in altus + one in tenor (see screenshot)
+Remaining: three = two in altus + one in tenor (see screenshot) --> SCRATCH THAT, ALL OF THESE WERE DUE TO A WEIRD CHANGE IN CLEF THAT I DIDN'T CATCH IN MURET. NOW ALL THE ORANGE LABELS ARE REARTICULATIONS.
 
 
 ### Section 2
