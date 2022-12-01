@@ -16,6 +16,8 @@ Remaining orange labels: all rearticulations
 
 Editorial corrections: cut semibreve to minim in tenor before cadence
 
+Tied minims in tenor (measures 6-7), subtituted by semibreve [no ties in MuRET]
+
 One remaining orange label (seems to be part of a chord)
 
 
