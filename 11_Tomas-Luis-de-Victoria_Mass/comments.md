@@ -47,7 +47,7 @@ Remaining: three = two in altus + one in tenor (see screenshot) --> SCRATCH THAT
 
 ### Section 2
 
-**!!!! STILL TO PROCESS !!!!**
+Revised and all good (first divided into two for the triple meter part and the going back to the duple meter)
 
 
 ### Section 3
