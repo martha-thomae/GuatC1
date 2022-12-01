@@ -18,6 +18,8 @@ Editorial corrections: cut semibreve to minim in tenor before cadence
 
 Tied minims in tenor (measures 6-7), subtituted by semibreve [no ties in MuRET]
 
+And added two accidentals I missed in MuRET (measures 10 and 12, Tenor)
+
 One remaining orange label (seems to be part of a chord)
 
 
