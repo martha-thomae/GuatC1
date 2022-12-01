@@ -5,7 +5,7 @@
 ## Kyrie
 ### Full Movement
 
-Extend the last notes in Altus, Tenor, and Bassus in Christe section
+Extend or shorten the last notes in all foru voices in Christe section
 
 Remaining orange labels: all rearticulations
 
