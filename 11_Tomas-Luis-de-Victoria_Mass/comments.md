@@ -79,7 +79,3 @@ No editorial corrections.
 
 The only orange labels left are doubling the agent.
 
----
-
-
-STILL TO VERIFY ALL AGAINST CPDL TO CHECK IT OUT, IN THEORY THEY ARE OK :)
