@@ -1,4 +1,4 @@
-# Mass 07 (f.31v-43r) - Missa sine nomine - Palestrina
+# Mass 07 (f.31v-43r) - Missa sine nomine - Giovanni Pierluigi da Palestrina
 
 
 

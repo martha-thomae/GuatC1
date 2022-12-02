@@ -1,4 +1,4 @@
-# Mass 06 (f.17v-31r) - Missa sobre las vozes - Cristóbal de Morales
+# Mass 10 (f.71v-85r) - Missa sine nomine - José de Torres y Martínez Bravo
 
 
 

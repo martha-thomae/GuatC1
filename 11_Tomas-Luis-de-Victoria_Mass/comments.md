@@ -1,4 +1,4 @@
-# Mass 11 (f.85v-95r) - Missa O quam gloriosum - Victoria
+# Mass 11 (f.85v-95r) - Missa O quam gloriosum - Tomás Luis de Victoria
 
 
 
