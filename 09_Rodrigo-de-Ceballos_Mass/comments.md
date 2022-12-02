@@ -115,8 +115,8 @@ CPDL COMMENTS
 09.02.02	Identical
 09.03.01	Identical
 09.03.02	Identical (No real difference, just last notes)
-09.03.03	Diffs (see COMMENTS above) --> CONSULT
+*09.03.03	Diffs (see COMMENTS above) --> CONSULT
 09.03.04	Diffs (see COMMENTS above) --> CONSULT
-09.04	The pitch-related editorial correction (to remove the fourth above the bass) is not done in cpdl (might not be important, maybe take it out) --> CONSULT
+09.04	The pitch-related editorial correction (to remove the fourth above the bass) is not done in cpdl (might not be important, maybe take it out) --> CONSULT*
 09.05	Which solution is better? CPDL or mine? --> CONSULT
 09.06	Thesis
