@@ -1,4 +1,4 @@
-# Mass 06 (f.17v-31r) - Missa sobre las vozes - Cristóbal de Morales
+# Mass 09 (f.54v-71r) - Missa de 3er tono - Rodrigo de Ceballos
 
 
 
@@ -94,11 +94,12 @@ Remaining orange labels after editorial corrections:
 ### Full Movement
 
 Editorial corrections:
-- Shorten the note at the end of the Superius, Tenor, and Bassus (section 1)
-- ...
+- Extend the notes of the four voices for simultaneous ending (section 1) [only orange labels left are 2, which are in super-weak beats]
+- Change the A minim to a semibreve (section 2, measure 6)
+- Extend the last notes in Superius, Altus, and Bassus (section 2)
+
 
 --->  Missing minim in altus (section 2) --> add a minim after a semibreve to resolve a suspension **????**
-Shorten last note in tenor OR augmented the ones in the other 3 voices (section 2)
 
 No remaining orange labels after editorial corrections
 
