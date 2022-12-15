@@ -9,7 +9,8 @@ No editorial corrections
 
 No orange labels in the first place
 
-**CONSULT: The places with an Eb still sound weird**
+**CONSULT: The places with an Eb still sound weird.
+I corrected lots of gestural accidentals and (with on exception) I think the piece sounds better. Same as CPDL one in those parts too. I added all the gestural accids implied by the key signatures and by accid cancellations, and doesn't sound that bad now.**
 
 
 ## Gloria
@@ -22,7 +23,7 @@ Remaining orange labels after editorial corrections:
 - One in Tenor, **rearticulation**
 - One in Superius, **?**
 
-**CONSULT: Antepenultimate measure sounds wrong! Again with the Eb happening**
+**CONSULT: Antepenultimate measure sounds wrong! Again with the Eb happening. It is the same as the CPDL one, and doesn't sound that bad now that I have corrected other parts that implied cancellation of flat accidentals in the key signature.**
 
 
 ## Credo 
