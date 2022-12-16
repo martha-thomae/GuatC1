@@ -1,7 +1,9 @@
 # Piece 02 (f.04v-07r) - Asperges me - Anonymous
 
-***Sections 1 & 2 have a cantus firmus that is supposed to go two times as fast (given that it has a C-cut sign, while the other voices have a regular C sign).
-Because of this, rather than leaving it in breve values, I used semibreve values to achieve the "two times faster" tempo***
+Notes:
+- Cantus firmus in tenor (in all three sections) - so all semibreves
+- Cut-C in tenor vs. C in other voices (section 1)
+
 
 ## Section 1
 
@@ -16,9 +18,20 @@ Remaining orange labels after editorial corrections:
 
 Needed to change triplet group to just two minims just to work in the MP Editor (which doesn't handle triplets), and then turned it back to triplets offline.
 
+
 ## Section 2
 
+Editorial corrections: not really
+- Change cantus firmus (tenor) to only semibreves, with the last note a breve
+
+No remaining orange labes
 
 
 ## Section 3
 
+Editorial corrections:
+- Change cantus firmus (tenor) to only semibreves
+- Shorten the last note in the superius & extend the last note in the tenor
+
+Remaining orange labels:
+- Two orange labels in the bassus, both are **rearticulations**
