@@ -1,4 +1,4 @@
-# Piece 02 (f.04v-07r) - Asperges me - Anonymous
+# Piece 03 (f.07v-11r) - Vidi aquam - Pedro Bermudez
 
 Notes:
 - Cantus firmus in tenor (in all three sections) - so all semibreves
@@ -35,3 +35,5 @@ Editorial corrections:
 
 Remaining orange labels:
 - Two orange labels in the bassus, both are **rearticulations**
+
+**CONSULT: It sounds as unfinished.**
