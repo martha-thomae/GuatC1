@@ -15,7 +15,7 @@ Editorial corrections: not really
 - Change cantus firmus (tenor) to only semibreves
 - Extend last note in the tenor & Shorten the last note in altus
 
-Two orange labels left, one in weak beat (upper voice i) and one duplicating the C agent (C minim in bassus) that is already sounding as a semibreve in the tenor.
+Two orange labels left, one in **weak beat** (upper voice i) and one **duplicating the agent's pitch class** (a C minim in bassus that is already sounding as a semibreve in the tenor).
 
 
 ## Section 3
