@@ -1,5 +1,8 @@
 # Piece 02 (f.04v-07r) - Asperges me - Anonymous
 
+***Sections 1 & 2 have a cantus firmus that is supposed to go two times as fast (given that it has a C-cut sign, while the other voices have a regular C sign).
+Because of this, rather than leaving it in breve values, I used semibreve values to achieve the "two times faster" tempo***
+
 ## Section 1
 
 Editorial corrections: not really
