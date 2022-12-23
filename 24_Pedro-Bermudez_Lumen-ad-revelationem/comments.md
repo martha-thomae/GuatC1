@@ -1,4 +1,4 @@
-# Piece 23 (f.187v-188r) - LUMEN AD REVELATIONEM - Pedro Bermudez
+# Piece 24 (f.188v-189r) - LUMEN AD REVELATIONEM - Pedro Bermudez
 
 
 Editorial corrections: not really
