@@ -1,5 +1,9 @@
 # Piece 26 (f.190v-192r) - Victimae Paschali laudes - Francisco Guerrero
 
+***Difference between Sect.1&2 and Sect.3:
+The Sect.1&2 have four voices and no key signature
+The Sect.3 has 5 voices and a key signature (B flat) [2nd Pars]***
+
 
 ## Section 1 & 2
 
