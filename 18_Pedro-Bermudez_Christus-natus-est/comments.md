@@ -7,3 +7,8 @@ Editorial corrections:
 
 No orange labels remaining after editorial corrections
 
+----
+
+Section 1 sounds good now that you added the editorial accidental.
+
+Section 2, however, doesn't sound good with or without the editorial accidentals. Probably the editodrial corrections are wrong. CHECK!!!
