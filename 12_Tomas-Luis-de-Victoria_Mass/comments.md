@@ -35,13 +35,21 @@
 
 
 ## Credo
-### Section 1
-
+### Sections 1 & 2
 First page turn, all good (all lining up) at page turn. Looking after there.
-
-### Section 2
+1. Editorial corrections (section 1):
+- Change a minim after a dotted minim into a semiminim (in altus)
+- Change semibreves to breves (in superius and tenor) before the single barline in the manuscript (the barline with the custos) and before the double barline preceding section 2 (same corr as in IMSLP).
+ No editorial corrections (section 2)
+2. Orange labels left:
+- Two rearticulations (section 1) + Another rearticulation (section 2)
+3. Reviewed against IMSLP (from other source) for section 1, but not for section 2
 
 ### Section 3
+1. Editorial corrections: 
+- Tenor minim in B moved up to D (same corr as in IMSLP)
+2. No orange label left after corrections.
+3. Has been revised against CPDL? YES, IMSLP from other source.
 
 ### Section 4
 1. No corrections
@@ -56,7 +64,7 @@ First page turn, all good (all lining up) at page turn. Looking after there.
 2. Only one orange label left which is a short note that also acts as a secondary agent (double agent short note).
 3. Has been revised against CPDL? Not yet
 
-### Section 2
+### Section 2 (Triple meter section)
 
 ### Section 3
 1. No corrections
