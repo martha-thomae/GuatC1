@@ -65,6 +65,12 @@ First page turn, all good (all lining up) at page turn. Looking after there.
 3. Has been revised against CPDL? Not yet
 
 ### Section 2 (Triple meter section)
+Notes:
+- Rests are interpreted differently:
+ - Superius with breve and semibreve rest = a single perfect breve rest (3 semibreves)
+ - Bassus with longa and breve rest = six semibreve rests (or two perfect breve rests)
+- Superius undotted breve is imperfect breve that falls in the third beat of the measure, rather than have an alteration preceding it. All breves are imperfect (unless dotted with a dot acting as dot of perfection) and there is no alterations --> JUST LIKE YOUR NOTES ON XVI C. MENSURAL MUSIC YOU WROTE ON YOUR THESIS.
+- Colored breve and two-note ligature is three colored breves long.
 
 ### Section 3
 1. No corrections
