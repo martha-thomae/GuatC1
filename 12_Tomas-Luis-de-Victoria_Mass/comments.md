@@ -68,6 +68,6 @@ First page turn, all good (all lining up) at page turn. Looking after there.
 ## Agnus
 ### Full Movement
 1. Detected an OMR error in the bass (a breve rest that should have been a semibreve rest following the first longa rest of the voice)
-2. Only two **rearticulations** are left as orange labels
+2. Only two **rearticulations** are left as orange labels following correction. BUT AFTER OMR CORRECTION WE HAVE THREE NEW ORANGE LABELS AT THE BEGINNING (WITH THE ALTUS): One is a doubling of the agent by a short note (which is ok), the other two are not explainable.
 3. Has been revised against CPDL? Not yet
 
