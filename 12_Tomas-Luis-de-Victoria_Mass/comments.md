@@ -31,3 +31,43 @@
 2. One remaining orange label: not so bad as it is a weak beat (and it chagnes to a blue 'V' when the anticipation on the top voice is changed to a single note value). All others (plenty) are gone.
 
 3. Has been revised against CPDL? Not yet
+
+
+
+## Credo
+### Section 1
+
+First page turn, all good (all lining up) at page turn. Looking after there.
+
+### Section 2
+
+### Section 3
+
+### Section 4
+1. No corrections
+2. No true orange labels left (two rearticulations and one short note acting as a second agent)
+3. Has been revised against CPDL? Not yet
+
+
+
+## Sanctus
+### Section 1
+1. No corrections
+2. Only one orange label left which is a short note that also acts as a secondary agent (double agent short note).
+3. Has been revised against CPDL? Not yet
+
+### Section 2
+
+### Section 3
+1. No corrections
+2. No orange labels since the beginning
+3. Has been revised against CPDL? Not yet
+
+
+
+## Agnus
+### Full Movement
+1. Detected an OMR error in the bass (a breve rest that should have been a semibreve rest following the first longa rest of the voice)
+2. Only two **rearticulations** are left as orange labels
+3. Has been revised against CPDL? Not yet
+
