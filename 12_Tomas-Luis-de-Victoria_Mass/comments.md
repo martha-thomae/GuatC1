@@ -82,6 +82,9 @@ Notes:
 ## Agnus
 ### Full Movement
 1. Detected an OMR error in the bass (a breve rest that should have been a semibreve rest following the first longa rest of the voice)
-2. Only two **rearticulations** are left as orange labels following correction. BUT AFTER OMR CORRECTION WE HAVE THREE NEW ORANGE LABELS AT THE BEGINNING (WITH THE ALTUS): One is a doubling of the agent by a short note (which is ok), the other two are not explainable.
-3. Has been revised against CPDL? Not yet
+2. After the OMR correction:
+- Two orange labels due to the alto behaving as bass and forming a fourth with the superius. I fixed this by moving the dotted minim G down a second (having the same pitch as the following semiminim); and then fixed the G minim close by (as bit after) down a second (having the same pitch as the previous note).
+ We could leave the notes as they are, as it is in IMSLP Agnus I. However that version in IMSLP has other voices below. So what to do?????
+- Then only two **rearticulations** are left as orange labels following correction.
+3. Has been revised against CPDL? ????
 
