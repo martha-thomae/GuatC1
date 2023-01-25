@@ -10,7 +10,7 @@
 
 2. No remaining orange labels after correction
 
-3. Has been revised against CPDL? Not yet
+3. Has been revised against CPDL? **YES** (IMSLP of another version)
 
 
 ## Gloria
@@ -18,20 +18,21 @@
 
 1. No editorial corrections (for now).
 
-2. Only one unexplained orange label since the beginning (screenshot; other are rearticulations, or other agents).
+2. Only one unexplained orange label since the beginning (screenshot; other are rearticulations, or other agents) --> changed the pitch and all good.
 
-3. Has been revised against CPDL? Not yet
+3. Has been revised against CPDL? **YES** (IMSLP of another version)
 
 
 ### Second Section
 
 1. Editorial correction:
-- All good until page turn (lines up); so the issue is after. I cut a semibreve in the tenor to a minim. Works good! And it is also found in the manuscript as a second hand.
+- All good until page turn (lines up); so the issue is after. I cut a semibreve in the tenor to a minim. Works good! And it is also found in the manuscript as a second hand. Cut some notes by a semibreve close to the end of the altus, tenor, and bass so that the cadence in the superius matches the ending of the voices (that is how it is in IMSLP other version of the piece)
 
 2. One remaining orange label: not so bad as it is a weak beat (and it chagnes to a blue 'V' when the anticipation on the top voice is changed to a single note value). All others (plenty) are gone.
 
-3. Has been revised against CPDL? Not yet
+3. Has been revised against CPDL? **YES** (IMSLP of another version)
 
+Some ties were missing, all done.
 
 
 ## Credo
