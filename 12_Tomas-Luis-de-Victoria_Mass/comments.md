@@ -73,6 +73,9 @@ Notes:
 - Superius undotted breve is imperfect breve that falls in the third beat of the measure, rather than have an alteration preceding it. All breves are imperfect (unless dotted with a dot acting as dot of perfection) and there is no alterations --> JUST LIKE YOUR NOTES ON XVI C. MENSURAL MUSIC YOU WROTE ON YOUR THESIS.
 - Colored breve and two-note ligature is three colored breves long.
 
+Has been revised against CPDL? YES, IMSLP from other source.
+
+
 ### Section 3
 1. No corrections
 2. No orange labels since the beginning
