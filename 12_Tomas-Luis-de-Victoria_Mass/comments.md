@@ -55,7 +55,7 @@ First page turn, all good (all lining up) at page turn. Looking after there.
 ### Section 4
 1. No corrections
 2. No true orange labels left (two rearticulations and one short note acting as a second agent)
-3. Has been revised against CPDL? Not yet
+3. Has been revised against CPDL? YES, IMSLP from other source.
 
 
 
