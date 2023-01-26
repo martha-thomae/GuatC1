@@ -63,7 +63,7 @@ First page turn, all good (all lining up) at page turn. Looking after there.
 ### Section 1
 1. No corrections
 2. Only one orange label left which is a short note that also acts as a secondary agent (double agent short note).
-3. Has been revised against CPDL? Not yet
+3. Has been revised against CPDL? YES, IMSLP from other source.
 
 ### Section 2 (Triple meter section)
 Notes:
