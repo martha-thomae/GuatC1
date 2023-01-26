@@ -79,7 +79,7 @@ Has been revised against CPDL? YES, IMSLP from other source.
 ### Section 3
 1. No corrections
 2. No orange labels since the beginning
-3. Has been revised against CPDL? Not yet
+3. Has been revised against CPDL? YES, IMSLP from other source.
 
 
 
