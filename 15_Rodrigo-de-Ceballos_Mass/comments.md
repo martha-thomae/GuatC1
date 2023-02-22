@@ -65,3 +65,10 @@ Completely checked against CPDL (one difference, better mine as closer to the or
 
 
 ### Section 2
+
+Triple meter section, so I didn't use the Dissonant Filter. I added a dot of division as an editorial correction (but it was ok because it is a XVI c. piece and breves are interpreted as imperfect by default unless dotted or followed by a breve rest).
+
+Fully revised against cpdl.
+
+
+### Section 3
