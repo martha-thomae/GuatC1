@@ -24,7 +24,13 @@ Orange labels are acceptable (rearticulations, double agents, weak beats).
 
 ### Section 1
 
-NOT DONE YET
+It was missing the mensuration (semantics) in the bass since it didn't have a mensuration sign and MuRET doesn't allow yet to enter mensuration semantics in the semantic encoding (although \*\*mens does allow for it: e.g., \*met()\_2222)
+
+One editorial correction at the beginning of alto (change semibreve rest to minim rest)
+
+One orange label left (unexplained yet, but same as in CPDL)
+
+Checked up until a point
 
 
 ### Section 2
