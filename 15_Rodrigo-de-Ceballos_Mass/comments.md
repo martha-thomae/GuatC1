@@ -47,3 +47,21 @@ Orange labels are acceptable (rearticulations, double agents, weak beats).
 2. No orange labels in the first place.
 
 3. I haven't revised it against anything.
+
+
+### Section 4
+
+MISSING
+
+
+
+## Sanctus
+
+### Section 1
+
+No editorial corrections, just shortening the last note in the altus. And no orange labels left after that.
+
+Completely checked against CPDL (one difference, better mine as closer to the original and no change in labels).
+
+
+### Section 2
