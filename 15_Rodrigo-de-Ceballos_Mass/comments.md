@@ -37,7 +37,7 @@ Checked up until a point. Perfect match with CPDL (as in the experiment)
 
 Halved a semibreve (to a minim) in the alto towards the beginning (preceding the B-flat semibreve) & shorten the last note of the superius (breve to semibreve).
 
-Revised until a point.
+Revised until a point. But as analyzed in the experiment, this would be a perfect match with CPDL.
 
 Orange labels are acceptable (rearticulations, double agents, weak beats).
 
