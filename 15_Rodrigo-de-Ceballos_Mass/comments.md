@@ -72,3 +72,14 @@ Fully revised against cpdl.
 
 
 ### Section 3
+
+1. Editorial corrections:
+
+    - Shorten dotted minim at the beginning of the bass by a minim (making it the first of a series of four semiminims). This correction is found in CPDL too. [I thought of shortening a previous semibreve to a minim, but a few accentuated dissonances appeared (should be marked in yello!). So the CPDL solution is better.]
+
+    - And incrementing the length of the last note in the superius.
+
+2. No orange labels left.
+
+3. Checked against CPDL until a certain point.
+
