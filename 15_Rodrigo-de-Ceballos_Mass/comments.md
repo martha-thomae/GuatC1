@@ -4,11 +4,11 @@
 
 ## Kyrie (Full Movement)
 
-1. No editorial corrections.
+1. No editorial corrections (just as in experiment).
 
 2. No orange labels in the first place.
 
-3. I haven't revised it against anything.
+3. Perfect match with CPDL (as I saw in the experiment).
 
 
 
@@ -24,16 +24,18 @@ Orange labels are acceptable (rearticulations, double agents, weak beats).
 
 ### Section 1
 
-It was missing the mensuration (semantics) in the bass since it didn't have a mensuration sign and MuRET doesn't allow yet to enter mensuration semantics in the semantic encoding (although \*\*mens does allow for it: e.g., \*met()\_2222)
+It was missing the mensuration (semantics) in the bass since it didn't have a mensuration sign and MuRET doesn't allow yet to enter mensuration semantics in the semantic encoding (although \*\*mens does allow for it: e.g., \*met()\_2222).
 
-One editorial correction at the beginning of alto (change semibreve rest to minim rest)
+One editorial correction at the beginning of alto (change semibreve rest to minim rest, same is in the experiment).
 
 One orange label left (unexplained yet, but same as in CPDL)
 
-Checked up until a point
+Checked up until a point. Perfect match with CPDL (as in the experiment)
 
 
 ### Section 2
+
+Halved a semibreve (to a minim) in the alto towards the beginning (preceding the B-flat semibreve) & shorten the last note of the superius (breve to semibreve).
 
 Revised until a point.
 
@@ -42,11 +44,11 @@ Orange labels are acceptable (rearticulations, double agents, weak beats).
 
 ### Section 3
 
-1. No editorial corrections.
+1. No editorial corrections (as in experiment).
 
 2. No orange labels in the first place.
 
-3. I haven't revised it against anything.
+3. Perfect match with CPDL (as in experiment).
 
 
 ### Section 4
