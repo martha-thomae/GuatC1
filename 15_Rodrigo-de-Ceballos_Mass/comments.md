@@ -58,7 +58,9 @@ Orange labels are acceptable (rearticulations, double agents, weak beats).
 3. Not revised
 
 #### 2ND PART (triple meter subsection):
-
+1. No editorial corrctions
+2. Didn't look for orange labels here (triple meter issue)
+3. Not revised
 
 #### 3RD PART (following triple meter subsection):
 
