@@ -64,7 +64,9 @@ Orange labels are acceptable (rearticulations, double agents, weak beats).
 
 #### 3RD PART (following triple meter subsection):
 
-
+1. Extending last notes in superius and tenor (breve to longa) & shorten last note in the altus (breve to semibreve).
+2. Only one orange label left due to **rearticulation**
+3. Not revised
 
 
 
