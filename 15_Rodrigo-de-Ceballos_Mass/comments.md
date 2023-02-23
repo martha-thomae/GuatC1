@@ -96,3 +96,11 @@ Fully revised against cpdl.
 
 
 ### Agnus II (Full Movement)
+
+1. Editorial corrections:
+    - Shortening of the altus last note (altus II, third voice)
+    - PITCH CORRECTION (local correction). Local 'Z' orange label in the superius, which was a B sounding against an A in the two lowest voices (and there was an E in the last voice). Moved it to a C (as in CPDL). I could have moved it to an A too, but the C was better as it allowed to approach the note by step (and then leave it by a leap in the opposite direction). 
+
+2. No orange labels left
+
+3. Fully checked against CPDL
