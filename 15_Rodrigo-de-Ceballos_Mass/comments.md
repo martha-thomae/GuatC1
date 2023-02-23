@@ -51,7 +51,18 @@ Orange labels are acceptable (rearticulations, double agents, weak beats).
 
 ### Section 4
 
-MISSING
+#### 1ST PART (before triple meter subsection):
+
+1. No editorial corrections.
+2. Only one orange label left, which is a **rearticulation**
+3. Not revised
+
+#### 2ND PART (triple meter subsection):
+
+
+#### 3RD PART (following triple meter subsection):
+
+
 
 
 
