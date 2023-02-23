@@ -83,3 +83,16 @@ Fully revised against cpdl.
 
 3. Checked against CPDL until a certain point.
 
+
+
+### Agnus I (Full Movement)
+
+1. No editorial corrections
+
+2. No orange labels since the beginning
+
+3. Fully checked against CPDL
+
+
+
+### Agnus II (Full Movement)
