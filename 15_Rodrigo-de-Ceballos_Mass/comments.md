@@ -55,18 +55,18 @@ Orange labels are acceptable (rearticulations, double agents, weak beats).
 
 1. No editorial corrections.
 2. Only one orange label left, which is a **rearticulation**
-3. Not revised
+3. Fully checked against CPDL
 
 #### 2ND PART (triple meter subsection):
-1. No editorial corrctions
+1. No editorial corrections
 2. Didn't look for orange labels here (triple meter issue)
-3. Not revised
+3. Fully checked against CPDL
 
 #### 3RD PART (following triple meter subsection):
 
 1. Extending last notes in superius and tenor (breve to longa) & shorten last note in the altus (breve to semibreve).
 2. Only one orange label left due to **rearticulation**
-3. Not revised
+3. Fully checked against CPDL
 
 
 
