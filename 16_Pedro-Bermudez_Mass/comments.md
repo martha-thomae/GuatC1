@@ -1,4 +1,4 @@
-# Mass 16 (f.152v-169r) - Missa Simile est regnum caelorum - Rodrigo de Ceballos
+# Mass 16 (f.152v-169r) - Missa de Bomba - Pedro Bermudez
 
 
 
