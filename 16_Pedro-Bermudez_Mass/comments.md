@@ -19,3 +19,8 @@
 3. Fully revised against CPDL
 
 
+## Gloria
+### Section 1
+1. No corrections
+2. Three orange labels: two are either a rearticulation or weak beat, and the third one (an orange 'z' in the tenor, closer to the beginning) is a short agent (not detected as such, it is actually then heard in the bass, and it is in CPDL too).
+3. Fully revised against CPDL
