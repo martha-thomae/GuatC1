@@ -30,6 +30,24 @@ MISSING
 
 
 ## Credo
+### Section 1
+#### 1st) Before the triple-meter subsection
+1. No corrections
+2. One orange label I cannot explain in the superius close to the beginning
+3. 
+
+#### 2nd) In triple-meter subsection
+1. No corrections
+2. Didn't check orange labels (triple meter issue in \*\*mens)
+3. Fully revised against CPDL
+
+#### 3rd) After the triple-meter subsection
+
+
+### Section 2
+MISSING
+
+### Section 3
 MISSING
 
 
