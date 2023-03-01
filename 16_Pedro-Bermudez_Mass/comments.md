@@ -91,6 +91,21 @@
 
 ### Section 3
 MISSING
+#### 1st) Before the triple-meter subsection
+1. 
+
+
+#### 2nd) At triple-meter subsection
+1. No corrections
+2. Didn't check orange labels (triple meter issue in \*\*mens)
+3.
+
+#### 3rd) After the triple-meter subsection
+1. Change last note in the voices (longa + semibreve, dotted breve, breve, dotted breve)
+2. No orange labels left after corrections.
+3. 
+
+
 
 
 ## Sanctus
