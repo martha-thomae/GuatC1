@@ -52,6 +52,7 @@
 2. Didn't use orange labels (super-short passage)
 3. Fully checked with CPDL
 
+
 ## Credo
 ### Section 1
 #### 1st) Before the triple-meter subsection
@@ -65,6 +66,9 @@
 3. Fully revised against CPDL
 
 #### 3rd) After the triple-meter subsection
+1. No real editorial corrections, just change the last note of the voices for them to finish simultaneously. The ending note values for this are breve (as it was), longa+dotted breve (it was just the longa), dotted breve (it was a longa), dotted breve (it was a breve).
+2. The change eliminated all orange labels
+3. 
 
 
 ### Section 2
