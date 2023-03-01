@@ -29,7 +29,7 @@
 #### 1st) Before the triple-meter subsection A
 1. No corrections (just expanded the last note in all voices from sb to breve to finish at the end of the measure --> decision @num/numbase = 1/2 for last semibreves).
 2. No orange labels in the first place
-3. I think it is fine to not check it against CPDL.
+3. Fully checked with CPDL
 
 #### 2nd) At triple-meter subsection A
 1. No corrections
@@ -43,13 +43,14 @@
 
 ### 4th) At triple-meter subsection B
 1. No corrections, but had to add a hemiola coloration three-semibreve group in the MuRET file in the alto which was added by a second hand in the mss.
+    - NOTE: I added a breve at the end in the mean time so that the triple meter sections were processed properly within the MP Editor, but I erased them afterwards. AND had to change also (manual postprocess) how the two minim rests in the same staffline of the superius affect the previous semibreve (leaving it perfect).
 2. Didn't use orange labels (triple-meter issue in \*\*mens)
-3. I added a breve at the end in the mean time so that the triple meter sections were processed properly within the MP Editor, but I erased them afterwards. No need to check with CPDL. AND had to change also (manual postprocess) how the two minim rests in the same staffline of the superius affect the previous semibreve (leaving it perfect).
+3. Fully checked with CPDL
 
 ### 5th) After triple-meter subsection B
 1. No corrections, I processed with previous (4th) and I changed the barring manually afterwards
 2. Didn't use orange labels (super-short passage)
-3. Will check...
+3. Fully checked with CPDL
 
 ## Credo
 ### Section 1
