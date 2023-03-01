@@ -73,8 +73,10 @@
 
 ### Section 2
 #### 1st) Before the triple-meter subsection
-1. OMR error: missing a dot after a minim (161r, p1, s7). Maybe manuscript error in clefs too.
-UNFINISHED!!!
+1. OMR error: missing a dot after a minim (161r, p1, s7). Manuscript error in clefs for part of the tenor, had to move notes up a third in pitch class (and also change the clef to C3 for consistency).
+2. One orange label, a **rearticulation**.
+3.
+
 
 #### 2nd) At triple-meter subsection
 1. The MP Editor script is performing alterations when there are two minims between semibreves; but this is a later piece and it should interpret the semibreves as imperfect by default (rather than perfect by default), basically as in earlier Renaissance where there is a dot of division. So, editorial correction was a dot of division.
