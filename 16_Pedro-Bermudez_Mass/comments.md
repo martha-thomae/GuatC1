@@ -66,7 +66,7 @@
 3. Fully revised against CPDL
 
 #### 3rd) After the triple-meter subsection
-1. No real editorial corrections, just change the last note of the voices for them to finish simultaneously. The ending note values for this are breve (as it was), longa+dotted breve (it was just the longa), dotted breve (it was a longa), dotted breve (it was a breve).
+1. No real editorial corrections, just change the last note of the voices for them to finish simultaneously. The ending note values for this are breve (as it was), longa+dotted breve (it was just the longa), dotted breve (it was a longa), dotted breve (it was a breve). IN THE END, I MANUALLY POSTPROCESS THE ORIGINAL NOTES WITH NUM/NUMBASE ATTRIBUTES TO HAVE THE RIGHT DURATION (UNTIL THE END).
 2. The change eliminated all orange labels
 3. 
 
