@@ -74,6 +74,13 @@
 ### Section 2
 #### 1st) Before the triple-meter subsection
 1. OMR error: missing a dot after a minim (161r, p1, s7). Maybe manuscript error in clefs too.
+UNFINISHED!!!
+
+#### 2nd) At triple-meter subsection
+
+
+#### 3rd) After the triple-meter subsection
+
 
 
 ### Section 3
