@@ -57,8 +57,8 @@
 ### Section 1
 #### 1st) Before the triple-meter subsection
 1. No corrections
-2. One orange label I cannot explain in the superius close to the beginning
-3. 
+2. One orange label I cannot explain in the superius close to the beginning ('z') --> When substituting the **rearticulations** in the tenor and bass (also generating other 'z' labels), this is revealed to be a **fake suspension**.
+3. Fully revised against CPDL (watch out for the accidental cancelling a previous one: gestural vs. written accidental)
 
 #### 2nd) At triple-meter subsection
 1. No corrections
@@ -68,43 +68,42 @@
 #### 3rd) After the triple-meter subsection
 1. No real editorial corrections, just change the last note of the voices for them to finish simultaneously. The ending note values for this are breve (as it was), longa+dotted breve (it was just the longa), dotted breve (it was a longa), dotted breve (it was a breve). IN THE END, I MANUALLY POSTPROCESS THE ORIGINAL NOTES WITH NUM/NUMBASE ATTRIBUTES TO HAVE THE RIGHT DURATION (UNTIL THE END).
 2. The change eliminated all orange labels
-3. 
+3. Fully revised against CPDL (prefer my attachment to the mss in certain points).
 
 
 ### Section 2
 #### 1st) Before the triple-meter subsection
 1. OMR error: missing a dot after a minim (161r, p1, s7). Manuscript error in clefs for part of the tenor, had to move notes up a third in pitch class (and also change the clef to C3 for consistency).
 2. One orange label, a **rearticulation**.
-3.
-
+3. Fully checked against CPDL
 
 #### 2nd) At triple-meter subsection
 1. The MP Editor script is performing alterations when there are two minims between semibreves; but this is a later piece and it should interpret the semibreves as imperfect by default (rather than perfect by default), basically as in earlier Renaissance where there is a dot of division. So, editorial correction was a dot of division.
 2. Didn't check orange labels (triple meter issue in \*\*mens)
-3.
+3. Fully checked against CPDL
 
 #### 3rd) After the triple-meter subsection
 1. No corrections
 2. One orange label at the level of the fusa (irrelevant)
-3. Maybe not necessary to check against CPDL
+3. Fully checked against CPDL
 
 
 ### Section 3
-MISSING
 #### 1st) Before the triple-meter subsection
-1. 
+1. No corrections (but I will have to bar it by the semibreve just at the end - MANUAL POSTPROCESSING)
+2. One 'z' label at the end, kind of like a fake suspension
+3. Fully checked against CPDL
 
 
 #### 2nd) At triple-meter subsection
 1. No corrections
 2. Didn't check orange labels (triple meter issue in \*\*mens)
-3.
+3. Fully checked against CPDL
 
 #### 3rd) After the triple-meter subsection
 1. Change last note in the voices (longa + semibreve, dotted breve, breve, dotted breve)
 2. No orange labels left after corrections.
-3. 
-
+3. Fully checked against CPDL
 
 
 
