@@ -77,7 +77,9 @@
 UNFINISHED!!!
 
 #### 2nd) At triple-meter subsection
-
+1. The MP Editor script is performing alterations when there are two minims between semibreves; but this is a later piece and it should interpret the semibreves as imperfect by default (rather than perfect by default), basically as in earlier Renaissance where there is a dot of division. So, editorial correction was a dot of division.
+2. Didn't check orange labels (triple meter issue in \*\*mens)
+3.
 
 #### 3rd) After the triple-meter subsection
 1. No corrections
