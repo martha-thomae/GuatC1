@@ -80,7 +80,9 @@ UNFINISHED!!!
 
 
 #### 3rd) After the triple-meter subsection
-
+1. No corrections
+2. One orange label at the level of the fusa (irrelevant)
+3. Maybe not necessary to check against CPDL
 
 
 ### Section 3
