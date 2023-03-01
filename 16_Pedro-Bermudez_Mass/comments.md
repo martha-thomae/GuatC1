@@ -44,7 +44,7 @@
 ### 4th) At triple-meter subsection B
 1. No corrections, but had to add a hemiola coloration three-semibreve group in the MuRET file in the alto which was added by a second hand in the mss.
 2. Didn't use orange labels (triple-meter issue in \*\*mens)
-3. I added a breve at the end in the mean time so that the triple meter sections were processed properly within the MP Editor, but I erased them afterwards. No need to check with CPDL.
+3. I added a breve at the end in the mean time so that the triple meter sections were processed properly within the MP Editor, but I erased them afterwards. No need to check with CPDL. AND had to change also (manual postprocess) how the two minim rests in the same staffline of the superius affect the previous semibreve (leaving it perfect).
 
 ### 5th) After triple-meter subsection B
 1. No corrections, I processed with previous (4th) and I changed the barring manually afterwards
