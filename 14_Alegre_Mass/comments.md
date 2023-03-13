@@ -46,7 +46,7 @@ Make last note longer in the bassus.
 - reaticulations
 - Or seventh chords (E, G, [B], D and then D, F, A, C) (D, F#, A, C)
 
-3. Revised against CPDL (seems good, CPDL has the same orange labels, and has corrs where it is not needed).
+3. Revised against CPDL (seems good, CPDL has the same orange labels, and has corrs where it is not needed). FULL REVISED AGAINST CPDL.
 
 
 ### Section 2
@@ -58,3 +58,49 @@ And extend the last note in the altus (with a dot on the breve), and in the teno
 2. Orange labels left: many
 
 3. Revised against CPDL (seems good, CPDL has the same orange labels, and has corrs where it is not needed).
+
+
+
+
+## Sanctus (Full Movement)
+Only extend the last note in all voices from breve to dotted breve so that all voices finish at the end of the measure.
+
+FULLY REVISED AGAINST CPDL --> PERFECT MATCH
+
+
+
+## Agnus I
+Extend last notes in altus (from longa to sb+longa), tenor (from breve to dotted breve), and bassus (from breve to dotted breve).
+
+FULLY REVISED AGAINST CPDL --> ALMOST PERFECT MATCH (one diff better in the mss in the middle, another diff at the beginning of the bassus, but you decide which to follow---erasures or new)
+
+
+
+## Agnus II
+Shorten last note in superius (from breve to semibreve) to finish at the same time as the other voices.
+
+FULLY REVISED AGAINST CPDL --> PERFECT MATCH
+
+
+
+## Credo
+### Section 1 & 2
+Only fix the ending note of all voices of section 1 (before the single barline); these changes are: breve to longa in superius, semibreve to breve in tenor, and breve to dotted breve in bass. 
+
+And finally shorten the last note of section 2 in the tenor from a longa to a dotted breve for a simultaneous ending of all four voices.
+
+Two missing ties added in PARTS file (and SCORE).
+
+FULLY CHECKED AGAINST CPDL. ALL GOOD. (Many orange labels left in both.) Just one difference with CPDL, but I followed the mss.
+
+
+### Section 3
+Just fix last note endings.
+FULLY CHECKED AGAINST CPDL. ALL GOOD.
+
+### Section 4
+- It was missing a tie in 127v to 128v in the tenor.
+- Editorial correction, changed a breve to semibreve in altus f.129r, system 2.
+- Extend last notes in superius and bassus to finish with other voices. Change in bassus: breve to dotted breve. Change in superius: maxima to maxima plus semibreve (I had to actually substitute the maxima by two longae just because there is no maximodus encoded).
+
+FULLY CHECKED AGAINST CPDL, ALL GOOD.
