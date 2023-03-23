@@ -98,3 +98,7 @@ No editorial corrections
 
 Remaining orange labels after editorial corrections:
 - Two orange labels in the altus and one in the superius, all of them **rearticulations**
+
+
+
+**FULLY CHECKED AGAINST CPDL**
