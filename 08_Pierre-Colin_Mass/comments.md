@@ -27,7 +27,7 @@ Remaining orange labels after editorial corrections:
 
 
 ## Credo 
-### Section 1 (Patrem omnipotentem & Et incarnatus)
+### Section 1&2 (Patrem omnipotentem & Et incarnatus)
 
 Editorial corrections:
 - Add semibreve rest in Tenor, betweeen longa and minim rest (measure 3)
@@ -36,7 +36,7 @@ Remaining orange labels after editorial corrections:
 - Two in Superius, **?**
 
 
-### Sections 2 (Crucifixus)
+### Sections 3 (Crucifixus)
 
 Editorial corrections:
 - Remove minim rest in the Tenor (measure 11)
@@ -45,11 +45,11 @@ Remaining orange labels after editorial corrections:
 - Two, one in Superius and one in Tenor, both are **rearticulations**
 
 
-### Section 3 (Et iterum venturus est)
+### Section 4 (Et iterum venturus est)
 
 Editorial corrections:
 - Remove augmentation dot in dotted semibreve in Superius (measure 15-16)
-- Change semibreve to semiminima (measure 29)
+- Change semibreve to minima (measure 29)
 
 Remaining orange labels after editorial corrections:
 - One in Bassus (third measure towards the end), **rearticulation** 
