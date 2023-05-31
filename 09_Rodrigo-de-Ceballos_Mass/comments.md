@@ -109,6 +109,8 @@ Editorial corrections:
 
 Completed (thesis feedback: extending last notes in altus and bassus, and only one orange label left which is ignored as it is in a weak beat).
 
+**Just need to check the accidents added in altus II and bassus in cpdl, as they are not in the manuscript (B flats). --> LISTEN!**
+
 
 
 CPDL COMMENTS
@@ -117,8 +119,8 @@ CPDL COMMENTS
 09.02.02	Identical
 09.03.01	Identical
 09.03.02	Identical (No real difference, just last notes)
-*09.03.03	Diffs (see COMMENTS above) --> CONSULT
-09.03.04	Diffs (see COMMENTS above) --> CONSULT
-09.04	The pitch-related editorial correction (to remove the fourth above the bass) is not done in cpdl (might not be important, maybe take it out) --> CONSULT*
-09.05	Which solution is better? CPDL or mine? --> CONSULT
-09.06	Thesis
+*09.03.03	Diffs (see COMMENTS above - omr error) --> CONSULT*
+*09.03.04	Diffs (see COMMENTS above - expanded a minim by another minim [close to the end] rather than the last note in tenor) --> **CONSULT***
+*09.04	**The pitch-related editorial correction (to remove the fourth above the bass) is not done in cpdl (might not be important, maybe take it out) --> CONSULT***
+09.05	Which solution is better? CPDL or mine? --> **CONSULT**
+09.06	Thesis **LISTEN FOR (ficta-ed) ACCIDS IN ALTUS II AND BASS that are in cpdl**
