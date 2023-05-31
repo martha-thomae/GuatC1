@@ -66,7 +66,9 @@ Editorial corrections: not really
 Remaining orange labels:
 - One in the Tenor (measure 14), one in the Superius and Bassus (measure 27), **rearticulation**
 - One in Tenor (measure 27) and one in the Bassus (measure 31), **? - we could move the minim in measure 27 in the altus up or down to remove that dissonance (the tenor seems to be following a pattern) OR leave it and think of it as a G7. Measure 31 looks ok: D, F, A; but the tenor's D is forming a FOURTH ABOVE THE BASS's A. REV AGAINST CPDL FOR THESE TWO CASES!**
+--> I think I got it, the sign that I thought was some weird kind fo mensuration change or a mistake or chord thing is actually a semibreve (well, two semibreves on top of each other, one in D and one in B), and that is just in the place where CPDL adds a semibreve Bflat (flat so that is the same as the Bass). It could be either a D or a Bflat semibreve (with the flat ficta-ed). Is it a chord??? (doesn't make sense to be a chord because it is just one voice, but either pitches would be alright). D would make more sense because then the jump is smaller (of a fifth), and a jump of a fifth makes more sense than a jump of a seventh, and then the movement to E after a short rest.
 
+-> SO, OMR CORRECTION (actually kept the chord in the voice with B and D, we have two custodes for those two pitches in the previous system too).
 
 ### Section 4 (Et in spiritus)
 
