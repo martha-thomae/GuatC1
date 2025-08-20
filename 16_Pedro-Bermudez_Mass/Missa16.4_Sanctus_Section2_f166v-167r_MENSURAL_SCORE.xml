@@ -20,6 +20,7 @@
                     <persName role="encoder">MuRET</persName>
                     <persName role="encoder">Martha Eladia Thomae Elias</persName>
                     <persName role="editor">Martha Eladia Thomae Elias</persName>
+                    <persName role="editor" xml:id="editTrans.EReyes">Ellis Reyes</persName>
                 </respStmt>
             </titleStmt>
             <pubStmt>
@@ -143,7 +144,7 @@
         <body>
             <mdiv>
                 <score>
-                    <scoreDef midi.bpm="200">
+                    <scoreDef midi.bpm="80">
                         <staffGrp symbol="bracket">
                             <staffDef n="1" lines="5" notationtype="mensural.white" xml:id="superius" clef.shape="G" clef.line="2">
                                 <label>superius</label>
@@ -251,7 +252,9 @@
                                 <note xml:id="PARTf4459bdb-8bc3-4cbb-a60d-7f9817be2880_A7f5fd63a-574d-4e60-b3fc-65571a6e46a4" dur="semibrevis" oct="4" pname="a" colored="true" num="3" numbase="2"/>
                                 <ligature xml:id="m-babc358c-d9ad-425b-a0da-13b0d9625e0a">
                                     <note xml:id="PARTf4459bdb-8bc3-4cbb-a60d-7f9817be2880_Ae38ee7b6-f42d-49c7-b994-b1b1627acd00" dur="semibrevis" oct="4" pname="a" colored="true" num="3" numbase="2"/>
-                                    <note xml:id="PARTf4459bdb-8bc3-4cbb-a60d-7f9817be2880_A5a957b43-1e95-40de-8176-58a1b6e538d1" dur="semibrevis" oct="4" pname="g" colored="true" num="3" numbase="2"/>
+                                    <note xml:id="PARTf4459bdb-8bc3-4cbb-a60d-7f9817be2880_A5a957b43-1e95-40de-8176-58a1b6e538d1" dur="semibrevis" oct="4" pname="g" colored="true" num="3" numbase="2">
+                                        <accid accid="s" func="edit" resp="#editTrans.EReyes"/>
+                                    </note>
                                 </ligature>
                                 <barLine form="dashed"/>
                                 <note xml:id="PARTf4459bdb-8bc3-4cbb-a60d-7f9817be2880_Abe5aff7d-0c52-4c35-a2ec-12ed43abfd28" dur="brevis" oct="4" pname="a"/>
@@ -447,6 +450,12 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="PART3d82851d-0f64-49d5-90ad-c97a566948ca_A3a8b1f81-f3f9-4e21-970a-f2d93ca78bca" dur="semibrevis" oct="3" pname="c"/>
                                 <barLine form="dashed"/>
+                                <choice resp="#editTrans.EReyes">
+                                    <corr>
+                                        <rest xml:id="PART3d82851d-0f64-49d5-90ad-c97a566948ca_A8e88032d-2325-48ee-b52e-a4ffddd290e6_corr" dur="longa"/>
+                                    </corr>
+                                </choice>
+                                <barLine form="dashed"/>
                                 <note xml:id="PART3d82851d-0f64-49d5-90ad-c97a566948ca_A1c86de8f-1ece-414f-bedb-d863fa2c44a5" dur="semibrevis" oct="3" pname="e" dur.quality="imperfecta" num="3" numbase="2"/>
                                 <note xml:id="PART3d82851d-0f64-49d5-90ad-c97a566948ca_A0fa5ac2b-eb54-424e-8e72-c6a717b0f254" dur="minima" oct="3" pname="g"/>
                                 <barLine form="dashed"/>
@@ -479,8 +488,7 @@
                                 <barLine form="dashed"/>
                                 <choice>
                                     <corr>
-                                        <note xml:id="m-f412e4cf-78c6-4454-aef4-398168407a26" dur="longa" oct="3" pname="a" dur.quality="perfecta" num="2" numbase="3"/>
-                                        <dot xml:id="m-d44aad43-55e7-40e4-ae43-bca306787296" form="aug" color="darkorange"/>
+                                        <note xml:id="m-f412e4cf-78c6-4454-aef4-398168407a26" dur="brevis" oct="3" pname="a"/>
                                     </corr>
                                     <sic>
                                         <note xml:id="PART3d82851d-0f64-49d5-90ad-c97a566948ca_A5158c691-33de-4826-952c-bd4d55ea8f9f" dur="longa" oct="3" pname="a"/>
