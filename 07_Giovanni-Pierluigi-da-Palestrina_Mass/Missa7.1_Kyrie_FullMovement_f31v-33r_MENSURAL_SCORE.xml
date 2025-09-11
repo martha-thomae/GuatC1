@@ -446,7 +446,7 @@
                                     <accid xml:id="m-ccf830a3-331c-4155-b6aa-a57cc274a352" accid="s"/>
                                 </note>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_A60ce49b2-5188-4e84-9661-d68c2757f6dc" dur="minima" oct="4" pname="a"/><!-- fermata -->
+                                <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_A60ce49b2-5188-4e84-9661-d68c2757f6dc" dur="minima" oct="4" pname="a" fermata="above"/><!-- fermata not showing in Verovio-->
                                 <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_A65da1a50-7e17-48d5-aa2c-85eb6a8c90b8" dur="minima" oct="5" pname="c"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_A1cead8b8-5cce-495b-9c24-e6a3402b78d4" dur="minima" oct="4" pname="b"/>
@@ -455,7 +455,14 @@
                                 <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_Abe107b73-5be3-4c45-a8ee-5ecaf2331858" dur="minima" oct="4" pname="g"/>
                                 <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_A28a34f0f-5088-40de-9172-6dec2d21119a" dur="minima" oct="5" pname="c"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_A44648923-2faa-4fa5-bdcd-21acb5ad052e" dur="minima" oct="5" pname="d"/>
+                                <choice resp="#editTrans.EReyes">
+                                    <corr>
+                                        <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_A44648923-2faa-4fa5-bdcd-21acb5ad052e_corr" dur="minima" oct="5" pname="e"/>
+                                    </corr>
+                                    <sic>
+                                        <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_A44648923-2faa-4fa5-bdcd-21acb5ad052e" dur="minima" oct="5" pname="d"/>
+                                    </sic>
+                                </choice>
                                 <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_Aadc30828-b0d4-4fe0-9d6b-8aa3cfa3afb2" dur="minima" oct="5" pname="c"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="PART5b88f680-e7f4-43b9-acd9-0915a75f4acd_A32449e20-1161-4fb4-b491-bcfad50256b2" dur="minima" oct="4" pname="g"/>
@@ -778,7 +785,7 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="PART9383761f-7146-4d42-a8f2-5176fdbebf62_A56146d15-03e7-4bb7-9e68-6bccbd41caa3" dur="semibrevis" oct="4" pname="e"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART9383761f-7146-4d42-a8f2-5176fdbebf62_A0c149540-0c0c-41c9-81ba-63ddc0997d43" dur="minima" oct="4" pname="e"/><!--fermata -->
+                                <note xml:id="PART9383761f-7146-4d42-a8f2-5176fdbebf62_A0c149540-0c0c-41c9-81ba-63ddc0997d43" dur="minima" oct="4" pname="e" fermata="above"/><!--fermata not showing in Verovio-->
                                 <note xml:id="PART9383761f-7146-4d42-a8f2-5176fdbebf62_Ad9353b8e-b921-46eb-8646-98d506c35963" dur="minima" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="PART9383761f-7146-4d42-a8f2-5176fdbebf62_A3e60a3b1-3a74-4bbd-85d0-d768ced3fbd7" dur="minima" oct="4" pname="d"/>
@@ -1033,10 +1040,12 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="PARTa440168c-ca09-4d35-8bcc-2184fe5c0d04_A96a0ae87-fc5d-455f-8a36-9ef7a27470ba" dur="semibrevis" oct="3" pname="b"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTa440168c-ca09-4d35-8bcc-2184fe5c0d04_A8fbd8563-a090-4020-83dc-f05fcf6d9973" dur="semibrevis" oct="3" pname="a">
+                                <note xml:id="PARTa440168c-ca09-4d35-8bcc-2184fe5c0d04_A8fbd8563-a090-4020-83dc-f05fcf6d9973" dur="semibrevis" oct="3" pname="a" fermata="above"><!-- fermata not showing in Verovio-->
                                     <accid xml:id="m-443dac49-87a1-42f1-bb7a-3e32dcd4114d" accid="s" accid.ges="n"/>
-                                    <accid xml:id="m-443dac49-87a1-42f1-bb7a" accid="n" func="edit"/><!-- this is written, but dissonant against the other As -->
-                                </note><!-- fermata -->
+                                    <!-- this sharp is written in the manuscript, but makes it dissonant against the A natural sounding in the superius and bass,
+                                    so we mark it as an editorial natural -->
+                                    <accid xml:id="m-443dac49-87a1-42f1-bb7a" accid="n" func="edit"/>
+                                </note>
                                 <barLine form="dashed"/>
                                 <rest xml:id="PARTa440168c-ca09-4d35-8bcc-2184fe5c0d04_Afc6a82bb-3ce2-4bec-bb19-ac60bf7ba9bd" dur="minima"/>
                                 <note xml:id="PARTa440168c-ca09-4d35-8bcc-2184fe5c0d04_A06b74e26-51b9-451b-a4c4-d7d21a0d96ae" dur="minima" oct="3" pname="a"/>
@@ -1288,7 +1297,7 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="PARTc985e9b7-c741-4625-aa15-c0fff272d14a_A975442c9-031d-47e8-856c-3f25dd4abec5" dur="semibrevis" oct="3" pname="e"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTc985e9b7-c741-4625-aa15-c0fff272d14a_Abb7012eb-63dc-4b6f-86b1-e95f689e1683" dur="minima" oct="2" pname="a"/> <!-- fermata -->
+                                <note xml:id="PARTc985e9b7-c741-4625-aa15-c0fff272d14a_Abb7012eb-63dc-4b6f-86b1-e95f689e1683" dur="minima" oct="2" pname="a" fermata="above"/> <!-- fermata not showning in Verovio-->
                                 <note xml:id="PARTc985e9b7-c741-4625-aa15-c0fff272d14a_Ad4c7938e-d3e7-4458-b545-ad074f9355a8" dur="minima" oct="3" pname="a"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="PARTc985e9b7-c741-4625-aa15-c0fff272d14a_Ab0aac8c9-fb4c-4abf-b8b9-01f409ffdab3" dur="minima" oct="3" pname="g"/>
