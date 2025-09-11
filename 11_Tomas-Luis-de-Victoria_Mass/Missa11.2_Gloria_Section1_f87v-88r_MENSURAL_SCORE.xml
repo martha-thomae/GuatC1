@@ -19,7 +19,11 @@
                     <persName role="project director" auth="VIAF" auth.uri="http://viaf.org/viaf/" codedval="316001213">Karen Desmond</persName>
                     <persName role="encoder">MuRET</persName>
                     <persName role="encoder">Martha Eladia Thomae Elias</persName>
-                    <persName role="editor">Martha Eladia Thomae Elias</persName>
+                    <persName role="editor" xml:id="METhomae">
+                        Martha Eladia Thomae Elias
+                        <annot>The transcription try to be as faithful to the Guatemalan manuscript as possible.
+                            However, a second reading is also provided for a particular passage of the piece (this comes from I-Bc Q.125).</annot>
+                    </persName>
                 </respStmt>
             </titleStmt>
             <pubStmt>
@@ -46,8 +50,12 @@
                 <annot label="commentary"/>
             </notesStmt>
             <sourceDesc>
-                <source targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/218/manifest.json">
+                <source xml:id="critApp.guate" targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/218/manifest.json">
                     <locus>87v.jpg</locus>
+                </source>
+               <source  xml:id="critApp.IBc_Q125" target="http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Q/Q125/">
+                  <head label="siglum">I-Bc, Museo Internazionale e biblioteca della musica Q.125</head>
+                  <locus>22/154</locus>
                 </source>
             </sourceDesc>
         </fileDesc>
@@ -694,16 +702,35 @@
                                 <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A041e9b42-1550-4e68-a79c-614642509e29" dur="minima" oct="4" pname="c" dur.quality="perfecta" num="2" numbase="3"/>
                                 <dot xml:id="m-588e2a5f-d80a-4236-84d3-8d97edc66918" form="aug"/>
                                 <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A4014a740-c881-44f5-a652-014cd84031e1" dur="semiminima" oct="3" pname="b"/>
-                                <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A34d444cf-b3a1-46d0-b6a9-b20d5348512d" dur="semibrevis" oct="3" pname="a" dur.quality="perfecta" num="2" numbase="3"/>
-                                <dot xml:id="m-6e124eb3-c06a-44d8-9c0b-d04dcc9ce715" form="aug"/>
-                                <barLine form="dashed"/>
-                                <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A1755dca6-3ea6-454b-a0e5-c653e3a424e6" dur="semiminima" oct="3" pname="g"/>
-                                <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A1bf35705-24dd-49ca-a25b-095d9dd1962a" dur="semiminima" oct="3" pname="f"/>
-                                <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A295efd1c-9445-47a4-818a-6970f035e865" dur="minima" oct="3" pname="g"/>
-                                <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A1087c9e1-81b3-42ca-bbe1-2ead2b373c72" dur="minima" oct="4" pname="c" dur.quality="perfecta" num="2" numbase="3"/>
-                                <dot xml:id="m-5b56e350-9f71-496e-a74b-e8601c242c7e" form="aug"/>
-                                <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A07ec9748-be74-4692-92d2-5990686de002" dur="semiminima" oct="4" pname="c"/>
-                                <barLine form="dashed"/>
+                                <app>
+                                    <lem source="#critApp.guate">
+                                        <annot resp="#METhomae">These transcriptions try to be as faithful to the Guatemalan manuscript as possible.</annot>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A34d444cf-b3a1-46d0-b6a9-b20d5348512d" dur="semibrevis" oct="3" pname="a" dur.quality="perfecta" num="2" numbase="3"/>
+                                        <dot xml:id="m-6e124eb3-c06a-44d8-9c0b-d04dcc9ce715" form="aug"/>
+                                        <barLine form="dashed"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A1755dca6-3ea6-454b-a0e5-c653e3a424e6" dur="semiminima" oct="3" pname="g"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A1bf35705-24dd-49ca-a25b-095d9dd1962a" dur="semiminima" oct="3" pname="f"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A295efd1c-9445-47a4-818a-6970f035e865" dur="minima" oct="3" pname="g"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A1087c9e1-81b3-42ca-bbe1-2ead2b373c72" dur="minima" oct="4" pname="c" dur.quality="perfecta" num="2" numbase="3"/>
+                                        <dot xml:id="m-5b56e350-9f71-496e-a74b-e8601c242c7e" form="aug"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A07ec9748-be74-4692-92d2-5990686de002" dur="semiminima" oct="4" pname="c"/>
+                                        <barLine form="dashed"/>
+                                    </lem>
+                                    <rdg source="#critApp.IBc_Q125">
+                                        <annot resp="#METhomae">Another surviving version of this piece is shown as a second reading.</annot>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A34d444cf-b3a1-46d0-b6a9-b20d5348512d_othersource" dur="minima" oct="3" pname="a" dur.quality="perfecta" num="2" numbase="3"/>
+                                        <dot xml:id="m-6e124eb3-c06a-44d8-9c0b-d04dcc9ce715_othersource_same" form="aug"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A1755dca6-3ea6-454b-a0e5-c653e3a424e6_othersource_samenote" dur="semiminima" oct="3" pname="g"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A1bf35705-24dd-49ca-a25b-095d9dd1962a_othersource" dur="minima" oct="3" pname="f"/>
+                                        <barLine form="dashed"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A295efd1c-9445-47a4-818a-6970f035e865_othersource_samenote" dur="minima" oct="3" pname="g"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A1087c9e1-81b3-42ca-bbe1-2ead2b373c72_othersource_samenote" dur="minima" oct="4" pname="c" dur.quality="perfecta" num="2" numbase="3"/>
+                                        <dot xml:id="m-5b56e350-9f71-496e-a74b-e8601c242c7e_othersource_same" form="aug"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A07ec9748-be74-4692-92d2-5990686de002_othersource_samenote" dur="semiminima" oct="4" pname="c"/>
+                                        <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A07ec9748-be74-4692-92d2-5990686de002_othersource_extranote" dur="minima" oct="4" pname="c"/>
+                                        <barLine form="dashed"/>
+                                    </rdg>
+                                </app>
                                 <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A95a8fce7-49a3-41b1-b03d-2210426646af" dur="minima" oct="3" pname="a"/>
                                 <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_A3e4fc219-fe50-402f-a333-7817f92f2ac7" dur="semibrevis" oct="4" pname="d"/>
                                 <note xml:id="PARTd0ecd926-0b95-447a-a624-38eb064c2ff5_Ad4e39c98-2d33-4306-9432-a5c4e5f7efe6" dur="minima" oct="3" pname="b"/>
