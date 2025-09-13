@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://music-encoding.org/schema/5.0/mei-Mensural.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://music-encoding.org/schema/5.0/mei-Mensural.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <mei
     xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0"
     xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -21,7 +21,11 @@
                     <persName role="encoder">Martha Eladia Thomae Elias</persName>
                     <persName role="editor">Geneviève Gates-Panneton</persName>
                     <persName role="proofreader">Martha Eladia Thomae Elias</persName>
-                    <persName role="proofreader">Peter Schubert</persName>
+                    <persName role="consultant" xml:id="PSchubert">Peter Schubert</persName>
+                    <persName role="editor" xml:id="editTrans.EReyes">
+                        Ellis Reyes
+                        <annot>Ficta and other editorial accidentals</annot>
+                    </persName>
                 </respStmt>
             </titleStmt>
             <pubStmt>
@@ -215,10 +219,16 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_Ade60cfbe-8103-4095-8ea3-f7e4a6abd9c9" dur="semibrevis" oct="4" pname="a"/>
                                 <rest xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_Aaa3ff412-2fbf-4018-aae6-3e5f51a0fc89" dur="minima"/>
-                                <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_Ad1ea2e29-2fa6-4de9-ab63-4867c3ce4b1b" dur="minima" oct="5" pname="c"/>
+                                <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_Ad1ea2e29-2fa6-4de9-ab63-4867c3ce4b1b" dur="minima" oct="5" pname="c">
+                                    <accid accid="s" func="edit" resp="#editTrans.EReyes"/>
+                                </note>
                                 <barLine form="dashed"/>
-                                <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_A5fb911c6-7275-4a3c-a4c4-0003deefd9ed" dur="minima" oct="5" pname="c"/>
-                                <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_Abb959f96-08b7-410f-9ed1-b431cc07851f" dur="minima" oct="5" pname="c"/>
+                                <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_A5fb911c6-7275-4a3c-a4c4-0003deefd9ed" dur="minima" oct="5" pname="c">
+                                    <accid accid="s" func="edit" resp="#editTrans.EReyes"/>
+                                </note>
+                                <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_Abb959f96-08b7-410f-9ed1-b431cc07851f" dur="minima" oct="5" pname="c">
+                                    <accid accid="s" func="edit" resp="#editTrans.EReyes"/>
+                                </note>
                                 <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_Aba9fbc3d-5c5c-45b6-aa62-97ccdecbc4e8" dur="semibrevis" oct="5" pname="d" dur.quality="perfecta" num="2" numbase="3"/>
                                 <dot xml:id="m-2d0a9d84-3d4c-4509-8bba-29285f0c3016" form="aug"/>
                                 <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_A9b84dfd1-c8bd-4d9f-ad00-d49f160a922e" dur="minima" oct="5" pname="c"/>
@@ -237,6 +247,7 @@
                                 <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_A58b48fbb-2fc3-468c-a106-453c474e22f4" dur="minima" oct="4" pname="a"/>
                                 <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_A14670703-bf05-4214-976d-fff2b81d31a0" dur="semibrevis" oct="5" pname="c"/>
                                 <note xml:id="PARTb0ae1365-36e1-4675-b9b2-d4104c2c1f2b_A638e04f8-9125-4d22-86fd-633a9bcfca32" dur="minima" oct="4" pname="b">
+                                    <accid accid="f" func="edit" resp="#editTrans.EReyes"/>
                                     <verse xml:id="m-cca02d7f-57b2-4b9e-bafc-0e0ddd583859" color="black" n="1">
                                         <syl xml:id="m-27cf1b5d-62df-4838-be11-e259bc428cff" con="b">76v.jpg,</syl>
                                         <syl xml:id="m-305a6e7a-12b2-4b27-89bf-d176128c8a7a" con="b">p1,</syl>
@@ -604,9 +615,13 @@
                                 </note>
                                 <note xml:id="PART950cced6-ab44-438e-a818-6b78ba0cabd0_A82e7c9cb-10cf-43da-a5cc-a304cc48ed1f" dur="semibrevis" oct="4" pname="d"/>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART950cced6-ab44-438e-a818-6b78ba0cabd0_A99d2ad78-dfe8-46b1-8d1f-e2b547eb60ca" dur="minima" oct="3" pname="b" dur.quality="perfecta" num="2" numbase="3"/>
+                                <note xml:id="PART950cced6-ab44-438e-a818-6b78ba0cabd0_A99d2ad78-dfe8-46b1-8d1f-e2b547eb60ca" dur="minima" oct="3" pname="b" dur.quality="perfecta" num="2" numbase="3">
+                                    <accid accid="f" func="edit" resp="#editTrans.EReyes"/>
+                                </note>
                                 <dot xml:id="m-a0d26456-4eeb-48ab-8817-d038adb26450" form="aug"/>
-                                <note xml:id="PART950cced6-ab44-438e-a818-6b78ba0cabd0_A3927afb8-76eb-4434-bd8b-465caa533cc2" dur="semiminima" oct="3" pname="b"/>
+                                <note xml:id="PART950cced6-ab44-438e-a818-6b78ba0cabd0_A3927afb8-76eb-4434-bd8b-465caa533cc2" dur="semiminima" oct="3" pname="b">
+                                    <accid accid="f" func="edit" resp="#editTrans.EReyes"/>
+                                </note>
                                 <note xml:id="PART950cced6-ab44-438e-a818-6b78ba0cabd0_A8f0f991c-7b45-488c-b7e9-46172430202c" dur="semibrevis" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
                                 <rest xml:id="PART950cced6-ab44-438e-a818-6b78ba0cabd0_A42f239a8-64f7-4034-a033-9a9f2104adea" dur="semibrevis"/>
@@ -788,8 +803,10 @@
                                 <barLine form="dashed"/>
                                 <rest xml:id="PART950cced6-ab44-438e-a818-6b78ba0cabd0_A67c22be9-7aff-4ff1-8a69-a2bf98168653" dur="minima"/>
                                 <note xml:id="PART950cced6-ab44-438e-a818-6b78ba0cabd0_Aafdd7bfc-3f22-499b-998e-037c1e496aac" dur="minima" oct="4" pname="f"/>
-                                <choice>
+                                <choice resp="#PSchubert">
                                     <corr>
+                                        <annot>The odd A flat dotted breve is corrected by changing it to B-flat breve followed by an A semibreve,
+                                            This change results in imitation with other voices.</annot>
                                         <note xml:id="m-e33acecc-a952-4323-9f38-0d86a8767df0" dur="brevis" oct="4" pname="b" color="darkorange">
                                             <accid xml:id="m-4295450d-70ea-43ac-9c09-f5275df4abde" accid="f"/>
                                         </note>
@@ -1555,13 +1572,16 @@
                                 <note xml:id="PART818ce4c8-6fb8-48db-b12a-f08a894f7360_Ae820d374-218a-42e3-8520-d7ec8bcf58dd" dur="minima" oct="3" pname="g" dur.quality="perfecta" num="2" numbase="3"/>
                                 <dot xml:id="m-8fdfe720-a56e-4ae8-a0a3-5086e87cd92e" form="aug"/>
                                 <note xml:id="PART818ce4c8-6fb8-48db-b12a-f08a894f7360_A0b219add-a348-4610-a41f-b4b7f1d927b2" dur="semiminima" oct="3" pname="g"/>
-                                <note xml:id="PART818ce4c8-6fb8-48db-b12a-f08a894f7360_A0c4ea1bc-83dd-4e48-9120-3d7d0bdab839" dur="semibrevis" oct="3" pname="a">
+                                <note xml:id="PART818ce4c8-6fb8-48db-b12a-f08a894f7360_A0c4ea1bc-83dd-4e48-9120-3d7d0bdab839" dur="semibrevis" oct="3" pname="a" tie="i">
                                     <accid xml:id="m-004c429f-d617-4ada-9518-637490813233" accid="f"/>
                                 </note>
                                 <barLine form="dashed"/>
-                                <note xml:id="PART818ce4c8-6fb8-48db-b12a-f08a894f7360_Af34f5a07-c0bd-4a63-893a-829fe2f62623" dur="semiminima" oct="3" pname="a">
+                                <note xml:id="PART818ce4c8-6fb8-48db-b12a-f08a894f7360_Af34f5a07-c0bd-4a63-893a-829fe2f62623" dur="semiminima" oct="3" pname="a" tie="t">
                                     <accid accid="f" func="edit"/>
                                 </note>
+                                <orig>
+                                    <tie startid="#PART818ce4c8-6fb8-48db-b12a-f08a894f7360_A0c4ea1bc-83dd-4e48-9120-3d7d0bdab839" endid="#PART818ce4c8-6fb8-48db-b12a-f08a894f7360_Af34f5a07-c0bd-4a63-893a-829fe2f62623"/>
+                                </orig>
                                 <note xml:id="PART818ce4c8-6fb8-48db-b12a-f08a894f7360_Ad1b42ab1-f1c7-4a86-8e0e-865e316667df" dur="minima" oct="3" pname="b">
                                     <accid xml:id="m-ed5befb2-0dca-47ab-95f2-a4e1ec2c40e8" accid="f"/>
                                 </note>
