@@ -19,7 +19,8 @@
                     <persName role="project director" auth="VIAF" auth.uri="http://viaf.org/viaf/" codedval="316001213">Karen Desmond</persName>
                     <persName role="encoder">MuRET</persName>
                     <persName role="encoder">Martha Eladia Thomae Elias</persName>
-                    <persName role="editor">Martha Eladia Thomae Elias</persName>
+                    <persName role="editor" xml:id="METhomae">Martha Eladia Thomae Elias</persName>
+                    <persName role="editor" xml:id="editTrans.EReyes">Ellis Reyes</persName>
                 </respStmt>
             </titleStmt>
             <pubStmt>
@@ -682,9 +683,10 @@
                                 </note>
                                 <note xml:id="PART0b709336-8e3d-4390-ad37-9d516ee74316_Aec485190-288e-43ba-b7be-70ae93299943" dur="minima" oct="3" pname="g"/>
                                 <barLine form="dashed"/>
-                                <choice>
+                                <choice resp="#METhomae">
                                     <corr>
                                         <note xml:id="m-1c15978b-288c-42ae-a9be-41cf64166370" dur="minima" oct="3" pname="f" color="darkorange"/>
+                                        <annot>The stem of the minima can be seen in the manuscript as an addition by a second hand.</annot>
                                     </corr>
                                     <sic>
                                         <note xml:id="PART0b709336-8e3d-4390-ad37-9d516ee74316_A8683cee4-5806-4e14-a1d0-5ed6be2c3b2b" dur="semibrevis" oct="3" pname="f"/>
@@ -814,7 +816,15 @@
                                 <note xml:id="PART3524e5a3-4ccb-469c-8422-866d1ea916d6_A10e92a21-dcdf-42df-ace8-61bb76eab4c8" dur="minima" oct="3" pname="c"/>
                                 <note xml:id="PART3524e5a3-4ccb-469c-8422-866d1ea916d6_A11c3d502-72ab-4502-855f-9aab9bbe2b3b" dur="minima" oct="2" pname="b" accid.ges="f"/>
                                 <note xml:id="PART3524e5a3-4ccb-469c-8422-866d1ea916d6_A88ed99cd-f055-4f7c-9f90-3767f18e3607" dur="minima" oct="2" pname="a"/>
-                                <note xml:id="PART3524e5a3-4ccb-469c-8422-866d1ea916d6_Ad93458d6-3198-447d-9013-010eda20b339" dur="minima" oct="2" pname="g"/>
+                                <choice resp="#editTrans.EReyes">
+                                    <corr>
+                                        <note xml:id="PART3524e5a3-4ccb-469c-8422-866d1ea916d6_Ad93458d6-3198-447d-9013-010eda20b339_corr" dur="minima" oct="2" pname="a"/>
+                                        <annot>Changed bassus minim G to A to match all other voices and avoid awkward 6/4 chord.</annot>
+                                    </corr>
+                                    <sic>
+                                        <note xml:id="PART3524e5a3-4ccb-469c-8422-866d1ea916d6_Ad93458d6-3198-447d-9013-010eda20b339" dur="minima" oct="2" pname="g"/>
+                                    </sic>
+                                </choice>
                                 <barLine form="dashed"/>
                                 <note xml:id="PART3524e5a3-4ccb-469c-8422-866d1ea916d6_A1f614c02-c1aa-4f92-afe4-29da556084c4" dur="semibrevis" oct="2" pname="b" accid.ges="f">
                                     <verse xml:id="m-3a1fbe99-6074-4c5f-bd7c-99c3bcc1ddaa" color="black" n="1">
