@@ -825,18 +825,10 @@
                                     <accid xml:id="m-44c0f232-9664-40c7-a62a-ed1522514607" accid="s"/>
                                 </note>
                                 <note xml:id="PARTeb4b6dec-dd54-4d54-b0c1-46cccd127ea9_A27e0de86-83e0-47bb-93c6-c00e4bba62b0" dur="semiminima" oct="3" pname="b"/>
-                                <choice>
-                                    <corr>
-                                        <note xml:id="m-56586f87-fa9e-4881-9195-31210aa0e712" dur="semibrevis" oct="4" pname="c" color="darkorange">
-                                            <accid xml:id="m-84f99cbf-92e9-446a-9c26-11481c7e102b" accid="s"/>
-                                        </note>
-                                    </corr>
-                                    <sic>
-                                        <note xml:id="PARTeb4b6dec-dd54-4d54-b0c1-46cccd127ea9_A1070eac9-e12c-4c4b-9f8c-56f15e5c8f98" dur="brevis" oct="4" pname="c">
-                                            <accid xml:id="m-5e81f654-b2d7-47b0-b729-60f9b5640938" accid="s"/>
-                                        </note>
-                                    </sic>
-                                </choice>
+                                <!-- Make last note last until the end of the section -->
+                                <note xml:id="PARTeb4b6dec-dd54-4d54-b0c1-46cccd127ea9_A1070eac9-e12c-4c4b-9f8c-56f15e5c8f98" dur="brevis" oct="4" pname="c" num="2" numbase="1">
+                                    <accid xml:id="m-5e81f654-b2d7-47b0-b729-60f9b5640938" accid="s"/>
+                                </note>
                                 <barLine form="dbl"/>
                             </layer>
                         </staff>
@@ -1422,15 +1414,8 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="PARTf1f461cf-8c11-4cbc-85b2-6a27438f2460_Add0836e9-f994-4773-a067-9663105a938f" dur="minima" oct="4" pname="c"/>
                                 <note xml:id="PARTf1f461cf-8c11-4cbc-85b2-6a27438f2460_A0d4a2343-3042-415c-8e56-e1a97f9a44b3" dur="minima" oct="4" pname="d"/>
-                                <choice>
-                                    <corr>
-                                        <note xml:id="m-54bfa383-8f07-4b23-9b56-f20cef991f48" dur="brevis" oct="4" pname="e" dur.quality="perfecta" num="2" numbase="3"/>
-                                        <dot xml:id="m-11ef7744-8e9c-47fd-992d-191a2fe47ba4" form="aug" color="darkorange"/>
-                                    </corr>
-                                    <sic>
-                                        <note xml:id="PARTf1f461cf-8c11-4cbc-85b2-6a27438f2460_A40e79a6a-28fd-4416-916a-2051e168e874" dur="brevis" oct="4" pname="e"/>
-                                    </sic>
-                                </choice>
+                                <!-- Extend last note until the end of the section -->
+                                <note xml:id="PARTf1f461cf-8c11-4cbc-85b2-6a27438f2460_A40e79a6a-28fd-4416-916a-2051e168e874" dur="brevis" oct="4" pname="e" num="2" numbase="3"/>
                                 <barLine form="end"/>
                             </layer>
                         </staff>
