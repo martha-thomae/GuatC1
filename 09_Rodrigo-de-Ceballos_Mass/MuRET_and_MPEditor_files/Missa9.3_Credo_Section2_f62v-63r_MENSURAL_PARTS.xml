@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-Mensural.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://music-encoding.org/schema/5.0/mei-Mensural.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei
+    xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title>09 Missa de 3er tono - Credo (Section 2)</title>
+                <composer>Rodrigo de Ceballos</composer>
+                <funder>
+                    <corpName>Brandeis University</corpName>
+                </funder>
+                <funder>
+                    <corpName>National Endowment for the Humanities (NEH)</corpName>
+                </funder>
+                <respStmt>
+                    <persName role="project director" auth="VIAF" auth.uri="http://viaf.org/viaf/" codedval="316001213">Karen Desmond</persName>
+                    <persName role="encoder">MuRET</persName>
+                    <persName role="encoder">Martha Eladia Thomae Elias</persName>
+                    <persName role="editor">Martha Eladia Thomae Elias</persName>
+                </respStmt>
+            </titleStmt>
+            <pubStmt>
+                <publisher>
+                    <persName>Karen Desmond</persName>
+                    <corpName>Brandeis University</corpName>
+                </publisher>
+                <date>2022</date>
+                <availability>
+                    <useRestrict>Available for purposes of academic research and teaching only.</useRestrict>
+                </availability>
+            </pubStmt>
+            <seriesStmt>
+                <title>Measuring Polyphony: Digital Encodings of Late Medieval Music</title>
+                <editor>
+                    <persName>Karen Desmond</persName>
+                </editor>
+                <identifier>
+                    <ref targettype="home_page" target="http://www.measuringpolyphony.org/"/>
+                </identifier>
+            </seriesStmt>
+            <notesStmt>
+                <annot label="original_clefs"/>
+                <annot label="commentary"/>
+            </notesStmt>
+            <sourceDesc>
+                <source targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/216/manifest.json">
+                    <locus>62v.jpg</locus>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application xml:id="MPEditor">
+                    <name>Measuring Polyphony Editor</name>
+                </application>
+            </appInfo>
+            <editorialDecl>
+                <p>This MEI encoding in mensural notation was made using the Measuring Polyphony Editor, transcribed from IIIF images of the original manuscript source one staff at a time, entering the pitches and rhythms for each stave using a combination of number and letter keystrokes. The Measuring Polyphony Editor generates two MEI files from this user input: an MEI parts file that captures each voice part entered, and an MEI score file that scores up the voice parts, which is viewable here.</p>
+            </editorialDecl>
+            <projectDesc>
+                <p>The Measuring Polyphony Editor, funded by a 2019-2020 NEH Digital Humanities Grant, is a prototype tool that allows a variety of modern readers (students and experts, musicologists, music theorists, those interested in the history of music notation, counterpoint, medieval palaeography and/or manuscript studies) to access and contribute transcriptions of music directly linked to digital images of the medieval manuscripts, and to learn about the original notation. This tool will offer new possibilities for the analysis and interpretation of late medieval music. In a broader humanities context, the project investigates how modeling the meanings of notational signs can lead to new understandings of the interaction between the sign and the signified, and of the relationship between notational style and changes in musical style across time and place.</p>
+            </projectDesc>
+        </encodingDesc>
+        <workList>
+            <work>
+                <identifier type="catalogue_number"/>
+                <title>09 Missa de 3er tono - Credo (Section 2)</title>
+                <composer>Rodrigo de Ceballos</composer>
+                <incip>
+                    <incipText label="superius" corresp="#superius">
+                        <lg>
+                            <l>[SUPERIUS]</l>
+                        </lg>
+                    </incipText>
+                    <incipText label="altus" corresp="#altus">
+                        <lg>
+                            <l>[ALTUS]</l>
+                        </lg>
+                    </incipText>
+                    <incipText label="tenor" corresp="#tenor">
+                        <lg>
+                            <l>[TENOR]</l>
+                        </lg>
+                    </incipText>
+                    <incipText label="bassus" corresp="#bassus">
+                        <lg>
+                            <l>[BASSUS]</l>
+                        </lg>
+                    </incipText>
+                </incip>
+                <classification>
+                    <termList>
+                        <term>Mass Movement</term>
+                    </termList>
+                </classification>
+            </work>
+        </workList>
+        <manifestationList>
+            <manifestation singleton="true">
+                <titleStmt>
+                    <title>
+                        <identifier label="siglum">GuatC 1</identifier>
+                    </title>
+                </titleStmt>
+                <physLoc>
+                    <repository>
+                        <corpName>[LIBRARY NAME]</corpName>
+                        <identifier>[SHELFMARK]</identifier>
+                        <ptr targettype="IIIF" target="https://muret.dlsi.ua.es/iiif/6/216/manifest.json"/>
+                    </repository>
+                </physLoc>
+                <notesStmt>
+                    <annot>Primary manuscript source for this encoding.</annot>
+                </notesStmt>
+            </manifestation>
+        </manifestationList>
+    </meiHead>
+    <music>
+        <facsimile>
+            <surface xml:id="m-255edb44-c6f9-42c0-a9ac-86481ba12a4d">
+                <graphic xml:id="m-35dbc63c-5eb2-446e-b2f6-aedcadd32b97" target="https://muret.dlsi.ua.es/iiif/6:216/canvas/f17">
+                    <zone xml:id="mfa6507eb-4272-4542-ad21-8fc99ed0e4c2" ulx="301" uly="106" lrx="1156" lry="274"/>
+                    <zone xml:id="m0ec3e85b-ba25-4cfa-9e0c-8c0ec98b79d0" ulx="181" uly="286" lrx="1148" lry="419"/>
+                    <zone xml:id="m12354817-d9e3-47e1-89e8-efac14619f94" ulx="185" uly="421" lrx="1137" lry="571"/>
+                    <zone xml:id="m200fd986-2f28-492a-9851-a0490cc32911" ulx="185" uly="574" lrx="1149" lry="717"/>
+                    <zone xml:id="mf8e19920-7cb6-4dcb-8587-c38aadb82d4a" ulx="181" uly="736" lrx="1117" lry="859"/>
+                    <zone xml:id="me9ffc6a5-3ab6-48fa-9f93-3fa9f68262cf" ulx="312" uly="917" lrx="1151" lry="1035"/>
+                    <zone xml:id="m48a79577-3e48-49d0-8368-8c38f0ced2c7" ulx="192" uly="1033" lrx="1150" lry="1185"/>
+                    <zone xml:id="m412b784f-4942-45a7-add6-2ca45ff58ac3" ulx="194" uly="1184" lrx="1157" lry="1317"/>
+                    <zone xml:id="m6f226685-5c58-499c-ada9-37dbb472cb8e" ulx="194" uly="1324" lrx="1137" lry="1462"/>
+                </graphic>
+            </surface>
+            <surface xml:id="m-f360203f-2d11-4e45-aa85-4ac53309a3a5">
+                <graphic xml:id="m-e03e6fdf-8fd5-488a-adac-8bae6fe18693" target="https://muret.dlsi.ua.es/iiif/6:216/canvas/f18">
+                    <zone xml:id="mb5b40a58-3cd4-443c-accc-ca7f073dce6d" ulx="319" uly="128" lrx="1164" lry="263"/>
+                    <zone xml:id="mbee3bced-266e-427c-8c16-f1861b81ef57" ulx="175" uly="275" lrx="1161" lry="416"/>
+                    <zone xml:id="me182e328-f77b-457b-8d5f-ee0a7781e4f9" ulx="177" uly="429" lrx="1120" lry="581"/>
+                    <zone xml:id="m2e6fe673-6e1f-456f-abca-beddf2ecbfe4" ulx="315" uly="897" lrx="1155" lry="1043"/>
+                    <zone xml:id="m58f40e5a-e47a-49e6-bfd1-b3be498ae96a" ulx="171" uly="1044" lrx="1156" lry="1204"/>
+                    <zone xml:id="ma467943c-e0ac-4691-b54c-50c37be04a42" ulx="170" uly="1195" lrx="1168" lry="1333"/>
+                    <zone xml:id="m4cd1188e-3511-41de-a79c-36d57df4f288" ulx="169" uly="1344" lrx="1117" lry="1476"/>
+                </graphic>
+            </surface>
+        </facsimile>
+        <body>
+            <mdiv>
+                <parts>
+                    <part>
+                        <scoreDef>
+                            <staffGrp>
+                                <staffDef n="1" lines="5" notationtype="mensural.white" label="superius" xml:id="superius">
+                                    <mensur modusminor="2" tempus="2" prolatio="2" sign="C"/>
+                                </staffDef>
+                            </staffGrp>
+                        </scoreDef>
+                        <section>
+                            <staff n="1">
+                                <layer n="1">
+                                    <pb facs="#m-255edb44-c6f9-42c0-a9ac-86481ba12a4d" xml:id="spb_11239"/>
+                                    <sb facs="#mfa6507eb-4272-4542-ad21-8fc99ed0e4c2" xml:id="spb_11240"/>
+                                    <clef xml:id="clef_11241" shape="G" line="2"/>
+                                    <rest xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A90f92ea9-1fcd-466a-ac62-50629acd6bba" dur="brevis"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A39f03231-17db-44be-b792-8245ad38d273" dur="semibrevis" oct="4" pname="a">
+                                        <verse xml:id="m-cec1d796-6792-4b0e-951a-3309dc46bdb9" color="black" n="1">
+                                            <syl xml:id="m-c4c27231-d335-4451-acd7-fbc30fa46983" con="b">62v.jpg,</syl>
+                                            <syl xml:id="m-5c5f7300-ee06-446f-b01d-bba960237522" con="b">p1,</syl>
+                                            <syl xml:id="m-c59c9866-a4a4-4dab-945d-2ca2704349b1">s1</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Ac4b66eb0-3c7d-4b6c-88e1-40520ad6963e" dur="semibrevis" oct="5" pname="c"/>
+                                    <dot xml:id="m-738a95ee-1cca-476d-af94-252e015c1028"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A51fba6dd-ce56-4f32-ae99-d3ecc39cd022" dur="minima" oct="5" pname="d"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Ac1debfe8-ecbc-4c59-a7cd-efc6c53b2197" dur="minima" oct="5" pname="e"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Ac9098fba-9d64-4c23-ab2c-9a83277271ee" dur="minima" oct="5" pname="f"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A73df7b69-4f1e-423e-abce-df1e969df9c9" dur="semibrevis" oct="5" pname="g"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Abcab47ce-943c-4210-a8ec-79fd11d3b0e7" dur="minima" oct="5" pname="f"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Ad1d3737e-af7e-4b65-af52-6b394b03ce57" dur="minima" oct="5" pname="e"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Ad1efef03-d4d6-4322-a884-fd0c672d459e" dur="minima" oct="5" pname="d"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Add89e3d9-7c47-4d4d-a681-582a1da6d585" dur="minima" oct="5" pname="f"/>
+                                    <dot xml:id="m-8b7b4888-730e-4b0a-a9b6-28f78266bb3a"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A7048474a-41c1-4d00-8629-018315487ade" dur="semiminima" oct="5" pname="e"/>
+                                    <sb facs="#m0ec3e85b-ba25-4cfa-9e0c-8c0ec98b79d0" xml:id="spb_11246"/>
+                                    <clef xml:id="clef_11247" shape="G" line="2"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A3a719918-c2c7-4bb4-8f6d-093db8471909" dur="minima" oct="5" pname="e">
+                                        <verse xml:id="m-a7bec8c0-ef65-4de2-9701-31b0f4ccc95c" color="black" n="1">
+                                            <syl xml:id="m-b47297be-e1bb-4bde-a790-75ab9213e327" con="b">62v.jpg,</syl>
+                                            <syl xml:id="m-4432db6a-f9e2-48ff-a021-d5e6a062468b" con="b">p1,</syl>
+                                            <syl xml:id="m-f0a10c8d-02a1-4235-9ef6-61e17c83de3b">s2</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Ad1ad0f75-575f-4955-a49a-152b8cd6cb78" dur="semibrevis" oct="5" pname="f"/>
+                                    <rest xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A18e07213-94d7-45b6-8443-472e48e7b11d" dur="minima"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Ab72f4222-6bd6-40af-b9ed-480a58fe7d3b" dur="minima" oct="5" pname="e"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A314918c2-764c-4854-96bb-71683380905b" dur="minima" oct="5" pname="e"/>
+                                    <dot xml:id="m-8739ce27-8573-4767-a2bd-1d7da9f7c180"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A6cfaea13-6a32-4ae7-a3fe-be20db045aec" dur="semiminima" oct="5" pname="d"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A9b5c7ad8-b4a4-496d-b910-a6d27aa81fac" dur="minima" oct="5" pname="c"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Aa1ec3788-e350-45dd-92c3-f7b9cbc949c9" dur="minima" oct="4" pname="b"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A33211465-e577-4712-9361-b76cb64377ab" dur="minima" oct="4" pname="a"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A2259235c-dc6c-42f3-8b1e-d298d3704092" dur="minima" oct="5" pname="d"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A5af71bac-7f83-4ad1-b8e4-a5bd2579bbdc" dur="minima" oct="5" pname="c"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A500e0c85-97a0-474c-a902-7e2b50c89999" dur="minima" oct="4" pname="b"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A9f1a0847-0f5f-4039-9a3d-570a0af776a3" dur="minima" oct="4" pname="a"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Ab57df4cb-c2c7-4eaf-ae15-82dc64963dec" dur="semibrevis" oct="5" pname="c"/>
+                                    <sb facs="#m12354817-d9e3-47e1-89e8-efac14619f94" xml:id="spb_11251"/>
+                                    <clef xml:id="clef_11252" shape="G" line="2"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A1e7d0dbd-9751-4de4-a18a-003b7742dfe6" dur="minima" oct="4" pname="b">
+                                        <verse xml:id="m-7a42e44a-9bb1-41e6-b795-2a5fe7c690a1" color="black" n="1">
+                                            <syl xml:id="m-363d2604-c0f6-429a-b558-bea0f2494f35" con="b">62v.jpg,</syl>
+                                            <syl xml:id="m-a0a43768-12eb-4521-bdf2-77fa7f5e04b3" con="b">p1,</syl>
+                                            <syl xml:id="m-392f2d0a-eab2-4f8d-88ac-b27b403dedbe">s3</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Afd433130-9d64-4968-a206-ef8a21158bd0" dur="semibrevis" oct="5" pname="c"/>
+                                    <rest xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A4b37be9d-550f-449e-acfa-e7489bbdd3a4" dur="semibrevis"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A9069bab5-194b-4ccb-97bb-902a6f4c4a49" dur="semibrevis" oct="5" pname="e"/>
+                                    <dot xml:id="m-914835e1-0be1-424e-a274-39c05b3177fa"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Aa69d7c93-e9be-4344-ada2-0b36d53e8f5d" dur="minima" oct="5" pname="e"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A715fbca6-02e6-4a06-a645-7bbbfe32b96f" dur="semibrevis" oct="5" pname="f"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Ad51b2181-761f-415d-a4cc-b44aa4a2a2fd" dur="semibrevis" oct="5" pname="e"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A4c73e68b-4909-414c-9746-7f0e5fdd9764" dur="semibrevis" oct="5" pname="c"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Aaabd3be2-1c5f-4f39-8dbc-e62ef155d39d" dur="semibrevis" oct="5" pname="d"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A691f225e-90d1-42b9-8747-eefe23f3b164" dur="semibrevis" oct="5" pname="e"/>
+                                    <rest xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A0eeaddc5-b19c-412f-b258-25f1f3c191b7" dur="minima"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A357e303d-f2c4-4829-9e51-090acf70f435" dur="semibrevis" oct="5" pname="e"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A4cfcb6a8-0d06-4c6d-9ada-3b539584eb43" dur="minima" oct="5" pname="f"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_Ac696672d-26b1-4da4-b4dd-5ebff46414c0" dur="minima" oct="5" pname="e"/>
+                                    <sb facs="#m200fd986-2f28-492a-9851-a0490cc32911" xml:id="spb_11256"/>
+                                    <clef xml:id="clef_11257" shape="G" line="2"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A88e0b3a4-4633-41ce-8306-bf3ba070f1de" dur="semibrevis" oct="5" pname="d">
+                                        <verse xml:id="m-58422731-a529-4ba2-8c5d-4c5bd8bb61d7" color="black" n="1">
+                                            <syl xml:id="m-a2e26a5a-941d-41c7-aee0-b525763886ff" con="b">62v.jpg,</syl>
+                                            <syl xml:id="m-ec4a5903-0d0e-4a06-9cae-fcd70a8c1117" con="b">p1,</syl>
+                                            <syl xml:id="m-0fdee8d3-cc84-48a1-8fa5-3b0c3817ae26">s4</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A5fb06008-e5ee-4a52-90f8-6d8b3e583287" dur="semiminima" oct="5" pname="c"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A3dccbede-ebb8-43c2-aaa3-0fda2d78176a" dur="semiminima" oct="4" pname="b"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A82744321-49bc-430b-8813-97a188c11a87" dur="semibrevis" oct="5" pname="c"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A66a39cf1-3766-4f4c-a9c4-67c0bf1c1737" dur="semibrevis" oct="5" pname="d"/>
+                                    <rest xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A7a16f6b2-0a92-4307-abd7-446a9768c765" dur="minima"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A3e8e331d-aeeb-4d85-8717-ee8a885d57a6" dur="semibrevis" oct="5" pname="d"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A7d16c287-6ce1-4a5e-96ff-84adc315f59d" dur="semibrevis" oct="5" pname="c"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A271d4b03-a6ea-4ca8-a332-36da98158642" dur="minima" oct="5" pname="c"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A15caeb8a-5c08-4aa1-9d68-d5cbcce28ca5" dur="minima" oct="5" pname="f"/>
+                                    <dot xml:id="m-dae91b5a-d398-4acc-bae6-d170d6e82d58"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A81ed6a86-8a1e-4248-9ad5-f0325772e45a" dur="semiminima" oct="5" pname="e"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A99e26e61-7d08-4b48-ac2b-65f48689fb1f" dur="minima" oct="5" pname="d"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A9eb94f31-0e31-4101-af53-6660986a1dc5" dur="semibrevis" oct="5" pname="c"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A68f903b4-5b4c-4dad-bf60-58894c4b168f" dur="semiminima" oct="4" pname="b"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A6b485b7b-c71a-46cb-a36a-3048c54762d7" dur="semiminima" oct="4" pname="a"/>
+                                    <sb facs="#mf8e19920-7cb6-4dcb-8587-c38aadb82d4a" xml:id="spb_11261"/>
+                                    <clef xml:id="clef_11262" shape="G" line="2"/>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A1bc90364-1089-4c70-b494-6f8189e80cf2" dur="semibrevis" oct="4" pname="b">
+                                        <verse xml:id="m-0c791b93-97e3-4fad-a98b-cce0a059e6e4" color="black" n="1">
+                                            <syl xml:id="m-ea76d7af-7469-4000-8374-d51bdf155acb" con="b">62v.jpg,</syl>
+                                            <syl xml:id="m-fbe3e6bc-a9c2-42ff-a258-3b062c6cea1c" con="b">p1,</syl>
+                                            <syl xml:id="m-5d64d721-8b85-4ccb-b51b-53078bc97a77">s5</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PARTb329da27-9158-4a9a-83ec-1cd59ab33d94_A4c75d0fe-72ea-4f5f-a5bd-4a33e1eb7ee9" dur="brevis" oct="4" pname="a"/>
+                                </layer>
+                            </staff>
+                        </section>
+                    </part>
+                    <part>
+                        <scoreDef>
+                            <staffGrp>
+                                <staffDef n="1" lines="5" notationtype="mensural.white" label="altus" xml:id="altus">
+                                    <mensur modusminor="2" tempus="2" prolatio="2" sign="C"/>
+                                </staffDef>
+                            </staffGrp>
+                        </scoreDef>
+                        <section>
+                            <staff n="1">
+                                <layer n="1">
+                                    <pb facs="#m-f360203f-2d11-4e45-aa85-4ac53309a3a5" xml:id="spb_11301"/>
+                                    <sb facs="#mb5b40a58-3cd4-443c-accc-ca7f073dce6d" xml:id="spb_11302"/>
+                                    <clef xml:id="clef_11303" shape="C" line="2"/>
+                                    <rest xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Acef6ae82-e455-46a7-81e0-1028cf8337d2" dur="longa"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A8278e02d-eb31-4b56-9269-385e01940082" dur="brevis" oct="4" pname="a">
+                                        <verse xml:id="m-58c5ca2f-684e-4ee1-889d-041cc3874d0f" color="black" n="1">
+                                            <syl xml:id="m-d615245f-44da-4d7b-bdd3-5f35cec0b684" con="b">63r.jpg,</syl>
+                                            <syl xml:id="m-33faa351-bcb7-4c8a-a9e5-f98ca4cefa04" con="b">p1,</syl>
+                                            <syl xml:id="m-7f71a653-8165-4243-b1dd-cf4ebb4f4fb5">s1</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A1bca6d86-d646-4102-b19a-39b349a5559f" dur="semibrevis" oct="4" pname="b"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A7c672f61-9ef4-4afe-bf68-3a1fffc11b0d" dur="semibrevis" oct="4" pname="a"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Ae4a44148-5f9d-4b26-937a-acc5fd03a739" dur="semibrevis" oct="4" pname="f"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A9a3835db-2cc6-465c-b385-9892fbe39674" dur="semibrevis" oct="4" pname="g"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Aea8c8b3a-a6ba-4890-9633-f66ca7c8efa6" dur="brevis" oct="4" pname="a"/>
+                                    <rest xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A840657f3-47c2-421c-ab85-1ac6b6377cab" dur="semibrevis"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A84f70db2-9252-401f-93bd-a5b509ab3c14" dur="semibrevis" oct="4" pname="e"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Ad5eb9315-f4d5-47a1-adf1-7660116a2e5f" dur="semibrevis" oct="4" pname="f"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A5f6b40b0-3e0a-4c76-a691-f5f24c7aec88" dur="semibrevis" oct="4" pname="e"/>
+                                    <sb facs="#mbee3bced-266e-427c-8c16-f1861b81ef57" xml:id="spb_11306"/>
+                                    <clef xml:id="clef_11307" shape="C" line="2"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Af8ec98e2-b8be-420c-a79a-82bee6175653" dur="semibrevis" oct="4" pname="c">
+                                        <verse xml:id="m-7eb31b28-207f-4339-83fc-4e74fd286cc0" color="black" n="1">
+                                            <syl xml:id="m-f48aaafc-a879-46aa-a6b2-3fd86b4344f5" con="b">63r.jpg,</syl>
+                                            <syl xml:id="m-88d33cbf-9258-4b51-b02b-4b53b7f3dccc" con="b">p1,</syl>
+                                            <syl xml:id="m-d0a7a076-9493-43cf-8f5a-86770a161e82">s2</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A2a20a41a-e6a5-4ede-9dc4-50c9ebdb6779" dur="semibrevis" oct="4" pname="d"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A912b0c69-fa7e-4c46-a478-65efb4914e4d" dur="semibrevis" oct="4" pname="e"/>
+                                    <rest xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A1f4f4164-a971-4efe-9b24-a15420bec78b" dur="semibrevis"/>
+                                    <rest xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Aacc3429b-a0bd-4a62-b3ec-c5a4dc0bf6f7" dur="minima"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A69b77409-d91c-4f82-859b-0db04b89c896" dur="semibrevis" oct="5" pname="c"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Adb63a945-279e-4ac9-91fa-81e4ccaecf6d" dur="minima" oct="5" pname="c"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Ae822cacb-fb32-4917-a992-bd39d14450d7" dur="minima" oct="4" pname="a"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Ab939c702-a675-4aff-ac30-588ff7d8a43a" dur="minima" oct="4" pname="b"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Aa28f85bc-56c9-42c6-b57d-a46e49b9de2c" dur="minima" oct="5" pname="c"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A6c9d210d-1858-4ed9-9c7a-b9d40ad060cf" dur="minima" oct="4" pname="g"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A965c9d55-6efc-49da-a28c-70cd1359d991" dur="brevis" oct="4" pname="a"/>
+                                    <dot xml:id="m-84a680f2-5710-4f19-bb3f-247f77a93128"/>
+                                    <rest xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Ad6fdb0e2-e7cc-4206-ba05-2364e305e979" dur="semibrevis"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Afcfaa534-dce7-4f36-b450-429c765f0f10" dur="semibrevis" oct="4" pname="a"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Abd068645-97b1-486b-8abb-f59f9715d2c0" dur="semibrevis" oct="4" pname="b"/>
+                                    <sb facs="#me182e328-f77b-457b-8d5f-ee0a7781e4f9" xml:id="spb_11311"/>
+                                    <clef xml:id="clef_11312" shape="C" line="2"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Adbcb6b2b-beba-4155-a989-3a989167d487" dur="brevis" oct="4" pname="a">
+                                        <verse xml:id="m-8666231a-839b-4ab9-96b5-0335e206e4da" color="black" n="1">
+                                            <syl xml:id="m-560f3fc5-c51a-489f-a44f-36440c53a3e3" con="b">63r.jpg,</syl>
+                                            <syl xml:id="m-a26e2f75-f2ad-430e-9ff2-3edf123f15f6" con="b">p1,</syl>
+                                            <syl xml:id="m-7f411c83-021e-46b5-9986-f6e388f5248b">s3</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A39b0a339-d8b6-4359-9e5d-ffbe99e06b19" dur="semibrevis" oct="4" pname="f"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A3200c965-a89a-4a2e-a1eb-43e8da2a9d45" dur="semibrevis" oct="4" pname="g"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A021c78c0-b4f7-4d85-817c-00c0156fc334" dur="semibrevis" oct="4" pname="a"/>
+                                    <rest xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A1c273f59-9dfd-453e-be4b-893bdab7a82a" dur="minima"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A20becf2d-cbfc-4d1d-8a64-a9dc7c0195e3" dur="minima" oct="4" pname="a"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Aee0f64e2-0469-4453-bb56-638406c5197e" dur="minima" oct="5" pname="c"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Aa7e59206-2c59-4535-a93f-94e4d76ea48f" dur="minima" oct="5" pname="c"/>
+                                    <ligature xml:id="m-4bc3b0c0-cd6a-479b-99aa-62e8c061422b">
+                                        <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A2ae640a2-b4a9-4bda-9b7b-5b2fa1f5db3a" dur="semibrevis" oct="4" pname="a"/>
+                                        <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_Adb21e730-d489-4eae-a249-1b95434f0d50" dur="semibrevis" oct="4" pname="g"/>
+                                    </ligature>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A6f4d8ece-4632-47e8-b0af-e41ac433e168" dur="semibrevis" oct="4" pname="g"/>
+                                    <note xml:id="PART4e90958d-c234-4ee1-afd0-bcb2d2800c07_A49fac5da-efa7-4d8c-89a7-3366e106af96" dur="brevis" oct="4" pname="e"/>
+                                </layer>
+                            </staff>
+                        </section>
+                    </part>
+                    <part>
+                        <scoreDef>
+                            <staffGrp>
+                                <staffDef n="1" lines="5" notationtype="mensural.white" label="tenor" xml:id="tenor">
+                                    <mensur modusminor="2" tempus="2" prolatio="2" sign="C"/>
+                                </staffDef>
+                            </staffGrp>
+                        </scoreDef>
+                        <section>
+                            <staff n="1">
+                                <layer n="1">
+                                    <pb facs="#m-255edb44-c6f9-42c0-a9ac-86481ba12a4d" xml:id="spb_11272"/>
+                                    <sb facs="#me9ffc6a5-3ab6-48fa-9f93-3fa9f68262cf" xml:id="spb_11273"/>
+                                    <clef xml:id="clef_11274" shape="C" line="3"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A07d504dd-ba30-4b19-9916-364af0b49892" dur="semibrevis" oct="3" pname="a">
+                                        <verse xml:id="m-bf169de3-547b-41b9-b9e3-08e41c3d4d4d" color="black" n="1">
+                                            <syl xml:id="m-a20f5423-00f5-4e38-9ed7-07e3ec7ee78a" con="b">62v.jpg,</syl>
+                                            <syl xml:id="m-f7d6e434-f9a5-469a-aa4b-6b8ec1f684c9" con="b">p1,</syl>
+                                            <syl xml:id="m-b9c7139c-1ce8-4726-9589-09db590abf4d">s6</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A4c4f9fac-9203-4ab0-93b7-7d0812634f72" dur="semibrevis" oct="4" pname="c"/>
+                                    <dot xml:id="m-08e682ae-0756-4b93-827b-b794d1cfc1e2"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A8b47ef07-dd71-40d0-8ceb-956eeb49b936" dur="minima" oct="4" pname="d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A04a50cac-faf7-480e-8a67-5cac195e9e84" dur="minima" oct="4" pname="e"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Aff387715-1522-4360-927c-bd098b266e59" dur="minima" oct="4" pname="f"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A9204811a-416a-45a2-8af6-94133ebe3e62" dur="minima" oct="4" pname="e"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Ad6ae5125-39bc-4022-ad34-a807ab6dea69" dur="minima" oct="4" pname="d"/>
+                                    <dot xml:id="m-89b58f10-7b0a-486d-9082-eba85c14bd52"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A4c87da5f-7266-4e69-811a-91079efb7d43" dur="semiminima" oct="4" pname="c"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Adbd920ef-15eb-4c5e-b63d-2e0dec94cba7" dur="minima" oct="4" pname="c"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A509f0e53-9d52-47d1-8c37-9bf98332a3d5" dur="semibrevis" oct="4" pname="d"/>
+                                    <rest xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A6535420c-c969-48bc-bc4d-0d255b7c54b9" dur="minima"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Afbbb1d08-9219-4b74-ae5b-bf6a1ccc39b2" dur="minima" oct="4" pname="c"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A7bdf2705-991c-46b2-a2f4-6b000af2497a" dur="minima" oct="4" pname="d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A64baf4e4-36f0-4ae0-b00b-4e85dae70961" dur="minima" oct="4" pname="d"/>
+                                    <sb facs="#m48a79577-3e48-49d0-8368-8c38f0ced2c7" xml:id="spb_11279"/>
+                                    <clef xml:id="clef_11280" shape="C" line="3"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Afcfc2cb4-9f53-4b9d-b54d-306bf173bfdd" dur="semibrevis" oct="3" pname="b">
+                                        <accid xml:id="m-fb41367c-2667-4ada-9276-401b620244df" accid="f"/>
+                                        <verse xml:id="m-1db5859e-c0c3-4f5c-8cff-8580f53e64a9" color="black" n="1">
+                                            <syl xml:id="m-735676be-31a9-46b7-9b71-0082dc6e2598" con="b">62v.jpg,</syl>
+                                            <syl xml:id="m-6180b2b3-6c95-4adb-937c-1ff197f151ae" con="b">p1,</syl>
+                                            <syl xml:id="m-405f68b5-3cd1-4513-9b57-06e4e7526950">s7</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A8c891261-3128-40f3-a6fb-af1d25c5aa2c" dur="minima" oct="4" pname="c"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A779a83c6-ba44-475d-a477-6c33dabe383b" dur="semibrevis" oct="4" pname="d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A6bf84a0b-d5b4-49a6-8f40-a747accb38f4" dur="semiminima" oct="4" pname="c"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A8d1004ad-9852-4e1a-9a5f-de7e66a44907" dur="semiminima" oct="3" pname="b"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Af8f55ce1-c831-494e-82ec-cf37445130fa" dur="semibrevis" oct="4" pname="c"/>
+                                    <rest xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Ab43b193a-2fd7-4f26-9efc-b005f2a03c9e" dur="semibrevis"/>
+                                    <rest xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Ae140a8d5-b88e-4a3f-83f9-d115807b484f" dur="minima"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A6ed14324-d1ab-4169-b571-c0eb3f62f2b5" dur="minima" oct="4" pname="a"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A9a209719-87c9-478d-8da5-daa385e584ac" dur="minima" oct="4" pname="a"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A435a542e-b810-4158-8002-68b2378c3faa" dur="minima" oct="4" pname="g"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Abbd3fe92-8c38-4e97-bbc1-440588bb1a8c" dur="minima" oct="4" pname="f"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A20631d36-1744-4211-b02e-e15464565630" dur="minima" oct="4" pname="e"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A4f6b473c-e037-4f74-9002-209b7e670bfc" dur="semibrevis" oct="4" pname="g"/>
+                                    <rest xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A2c6919a9-a372-4b65-a99a-c239da6d0aee" dur="minima"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A731c792f-6a03-4d1b-9875-336984627a2d" dur="semibrevis" oct="4" pname="g"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Acc3be8ed-d547-455b-9335-3275ab587331" dur="minima" oct="4" pname="e"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A9802513a-c766-4f52-9957-87b806283de8" dur="minima" oct="4" pname="g"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A723aaf44-e9d8-45ff-8dc6-1bdb094d3f1f" dur="semibrevis" oct="4" pname="a"/>
+                                    <sb facs="#m412b784f-4942-45a7-add6-2ca45ff58ac3" xml:id="spb_11283"/>
+                                    <clef xml:id="clef_11284" shape="C" line="3"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Ae08a39ed-94a7-4ed3-9bc6-fe725c13e228" dur="minima" oct="4" pname="g">
+                                        <verse xml:id="m-813554e7-53d8-48c9-8e61-f4dbc050394a" color="black" n="1">
+                                            <syl xml:id="m-22c51099-e77b-47f6-87a0-74a5bd4c97a8" con="b">62v.jpg,</syl>
+                                            <syl xml:id="m-b754d35e-7f2a-46e9-8063-67d954563411" con="b">p1,</syl>
+                                            <syl xml:id="m-c52bd3ac-7be4-4df9-9e00-698fd98be10b">s8</syl>
+                                        </verse>
+                                    </note>
+                                    <dot xml:id="m-b38eb117-9773-4e22-b821-3ca0f9f6e21d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A9131d072-aa42-4d5f-bbc0-752602cd93d6" dur="semiminima" oct="4" pname="f"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Adad131dc-5c9e-4382-a2cd-1a7276193a90" dur="minima" oct="4" pname="f"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A203a2c7b-4f16-4413-8b9c-a546ad700469" dur="minima" oct="4" pname="g"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Ae180ab14-13e9-431e-8c6e-78791d71dd21" dur="minima" oct="4" pname="e"/>
+                                    <dot xml:id="m-64f2f271-768f-4d98-9c55-e7e9a7a73927"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A7bf0ac2e-de6a-443b-a253-4312e5c1b5f0" dur="semiminima" oct="4" pname="e"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A4d43608a-03df-4d12-852f-e3e134e0d2b2" dur="minima" oct="4" pname="e"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A1db517bc-9f39-4a11-9845-e8934335aff1" dur="minima" oct="4" pname="f"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A57fa367c-8075-4fa8-891c-0577287bda0d" dur="semibrevis" oct="4" pname="d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A44cf5ee8-7ea5-41d4-9231-3512e93037d7" dur="semiminima" oct="4" pname="c"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A87cc7d6d-f837-4974-b306-e93b59a7b9fe" dur="semiminima" oct="3" pname="b"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Af67a9292-c3e3-4202-b22f-5a40f9b266fb" dur="semibrevis" oct="4" pname="c"/>
+                                    <rest xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Aa294107c-8a0d-4824-a9f7-703d190c5c3b" dur="minima"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A8cc1d7e6-20fa-4d44-9624-7c9601999894" dur="minima" oct="4" pname="d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A0da767cc-f781-43cc-b37f-82b317c9769a" dur="minima" oct="4" pname="g"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A0cc47b2c-9c50-4924-beb3-418d6ab9f17c" dur="minima" oct="4" pname="g"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A706d270c-dedb-4bfe-96ed-17cb095afab7" dur="minima" oct="4" pname="f"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A72777385-493e-43d5-a2d5-8843e6dcb12c" dur="semiminima" oct="4" pname="e"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A4574e4b3-1aa0-4673-8885-9269c55a374e" dur="semiminima" oct="4" pname="d"/>
+                                    <sb facs="#m6f226685-5c58-499c-ada9-37dbb472cb8e" xml:id="spb_11289"/>
+                                    <clef xml:id="clef_11290" shape="C" line="3"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A382b43bb-1116-4079-9561-0cc4160481b6" dur="semibrevis" oct="4" pname="e">
+                                        <verse xml:id="m-e67b1d7f-d798-4773-b74d-670f40e525b4" color="black" n="1">
+                                            <syl xml:id="m-51a8bef9-c0eb-4874-8aed-7056aebe87e6" con="b">62v.jpg,</syl>
+                                            <syl xml:id="m-875cfbed-b6d2-4fd0-a965-9af932bd28cc" con="b">p1,</syl>
+                                            <syl xml:id="m-9fce90a2-a11c-499e-a25f-7f0003069f86">s9</syl>
+                                        </verse>
+                                    </note>
+                                    <rest xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Afdd64349-310f-4aca-b155-abae64abd6d0" dur="minima"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A47313fcd-6d61-4572-bdce-1de9d1a67e19" dur="minima" oct="4" pname="d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A3ed70ca4-5e80-4f4e-a0c8-621125a82646" dur="minima" oct="4" pname="d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A938d2f63-9b7c-4994-a469-2073ae38b024" dur="minima" oct="4" pname="d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A557792a5-fabc-4d7b-8139-49e7a8ce8c69" dur="minima" oct="4" pname="f"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A7e13803d-e7c4-435e-9c6b-acda226763a6" dur="minima" oct="4" pname="e"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A24118684-68c1-41ba-83ff-5ea9c587bf64" dur="semibrevis" oct="4" pname="e"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A242a22fc-bc92-4908-a060-a701adf7031d" dur="minima" oct="4" pname="a"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A2979d0a4-df4c-4707-8a7f-21eb350ba859" dur="minima" oct="4" pname="a"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_Ac6d73edd-b02a-4692-8cd9-289b500ab3f0" dur="semibrevis" oct="4" pname="f"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A56db200e-15db-44cd-a245-fb2850031d91" dur="minima" oct="4" pname="e"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A2c5878c6-839d-4a8a-b340-deea5b46bb55" dur="semiminima" oct="4" pname="d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A24d9a2c2-ff7d-4811-ad74-51ff3398a62e" dur="semiminima" oct="4" pname="c"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A3679de97-58dd-4491-956f-09bd579f68fa" dur="semibrevis" oct="4" pname="d"/>
+                                    <dot xml:id="m-01e9e221-cbcc-4764-acf1-3d9b2e40dd9d"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A69f4d436-abfa-4547-a0c6-961a9d69c129" dur="semiminima" oct="4" pname="c"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A5245b9d4-14ef-41db-b3d1-7bd837fe6bfe" dur="semiminima" oct="3" pname="b"/>
+                                    <note xml:id="PARTd3c8e03d-86c2-4e90-aa71-89451f193179_A810b31fb-e237-42aa-b1cc-089101af3bdc" dur="brevis" oct="4" pname="c">
+                                        <accid xml:id="m-c814bb1a-0a77-420a-b2ab-1581d7a1a583" accid="s"/>
+                                    </note>
+                                </layer>
+                            </staff>
+                        </section>
+                    </part>
+                    <part>
+                        <scoreDef>
+                            <staffGrp>
+                                <staffDef n="1" lines="5" notationtype="mensural.white" label="bassus" xml:id="bassus">
+                                    <mensur modusminor="2" tempus="2" prolatio="2" sign="C"/>
+                                </staffDef>
+                            </staffGrp>
+                        </scoreDef>
+                        <section>
+                            <staff n="1">
+                                <layer n="1">
+                                    <pb facs="#m-f360203f-2d11-4e45-aa85-4ac53309a3a5" xml:id="spb_11322"/>
+                                    <sb facs="#m2e6fe673-6e1f-456f-abca-beddf2ecbfe4" xml:id="spb_11323"/>
+                                    <clef xml:id="clef_11324" shape="C" line="4"/>
+                                    <rest xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Af342d7c3-a993-42cb-9a44-8bc23dc1b760" dur="brevis"/>
+                                    <rest xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A86c54416-4420-45f8-8760-10a3a1e9858f" dur="semibrevis"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A0dea3c15-266e-4082-b996-323f30136a68" dur="semibrevis" oct="3" pname="a">
+                                        <verse xml:id="m-20cc6c10-5fd5-4abf-a45c-c8e3018e20ef" color="black" n="1">
+                                            <syl xml:id="m-1b0ed7f5-7f2f-4b43-ad0e-4e7dfebc6311" con="b">63r.jpg,</syl>
+                                            <syl xml:id="m-637e61a9-9c83-4bc9-bbd1-8db4fa6bf22b" con="b">p1,</syl>
+                                            <syl xml:id="m-d61bdea6-6e9e-46dd-933e-da46fc3e2e74">s4</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A4a2f445d-d44a-4bc9-baac-6b79635c2dc3" dur="semibrevis" oct="3" pname="a"/>
+                                    <dot xml:id="m-b06bcf4b-f28d-416e-871d-7bc5dca984e0"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A5c4a5831-72a7-4348-9de7-45e5bf68f47a" dur="minima" oct="3" pname="a"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A2814711e-d5ae-4667-b11e-df0ca401405e" dur="minima" oct="3" pname="g"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Af1d1db1e-4d4c-4ab9-b7fe-039f342121c2" dur="minima" oct="3" pname="g"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Ae33bc7ef-5908-4ff9-b23d-7e1dcbf96722" dur="semibrevis" oct="3" pname="a"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A8da7f288-6b23-4873-8bc9-c55a952f8f19" dur="semibrevis" oct="3" pname="b">
+                                        <accid xml:id="m-213bbbc9-cf27-409b-b8a4-8054d0b4ac90" accid="f"/>
+                                    </note>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A11224662-0dd8-4327-a55b-328589d1671e" dur="minima" oct="3" pname="g"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Ac0cf5b1b-7c15-4239-94a4-40675218b777" dur="minima" oct="3" pname="g"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A52c778af-7fb8-470e-993a-d1cc810eff3a" dur="minima" oct="3" pname="f"/>
+                                    <dot xml:id="m-bf846cf6-d553-45eb-84b1-9f6f2a977c41"/>
+                                    <sb facs="#m58f40e5a-e47a-49e6-bfd1-b3be498ae96a" xml:id="spb_11329"/>
+                                    <clef xml:id="clef_11330" shape="C" line="4"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Acce004f9-6470-447e-88d7-1f8cb370f796" dur="semiminima" oct="3" pname="g">
+                                        <verse xml:id="m-c14b2844-1372-4647-9ea8-8875451aa2c7" color="black" n="1">
+                                            <syl xml:id="m-3a598ffe-ea1d-4670-a43a-4a7ffb2153f0" con="b">63r.jpg,</syl>
+                                            <syl xml:id="m-dbee81f5-3009-43f6-b520-033b155cd2ec" con="b">p1,</syl>
+                                            <syl xml:id="m-39c0c645-f9e2-43b9-8180-da831e1ae353">s5</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Ab35971af-f29f-444d-a760-7dda657f68ab" dur="semibrevis" oct="3" pname="a"/>
+                                    <rest xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A208efbef-7df3-4b2b-85e6-006ddc9fb416" dur="minima"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A1b9527c6-bdf5-4b1d-bc46-518dd6cbac56" dur="minima" oct="3" pname="a"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A15c38f5d-7d31-44b1-99ba-0b4104cfd765" dur="minima" oct="3" pname="a"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A17f3b687-224c-47d5-82a1-0a51d91456e6" dur="minima" oct="3" pname="g"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A599d7d16-9f01-4ef0-9458-6b26e58911c3" dur="minima" oct="3" pname="f"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A9342e935-5b45-4d61-9a63-85060f0776f5" dur="minima" oct="3" pname="d"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Acf43e3ef-b10b-46bb-a3ef-cff2971471da" dur="semibrevis" oct="3" pname="e"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Ae53d5d45-3602-43b3-9081-663b284074c3" dur="minima" oct="3" pname="f"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A77569c58-d9dd-4da3-bc97-077024be9408" dur="minima" oct="3" pname="a"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A42e0cf36-5f61-43cd-8dfd-4031ca290a87" dur="semibrevis" oct="3" pname="g"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A44bf386d-5bfc-40ec-8379-0da7f39aa1cb" dur="semibrevis" oct="3" pname="c"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A061f668f-4d73-4db1-850d-0e5409abca2c" dur="semibrevis" oct="4" pname="c"/>
+                                    <dot xml:id="m-faee0234-e0b4-4bed-add2-f6813117e5f6"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A3339a1f4-9207-49ac-b7ad-48fb3e12ee86" dur="minima" oct="3" pname="a"/>
+                                    <sb facs="#ma467943c-e0ac-4691-b54c-50c37be04a42" xml:id="spb_11334"/>
+                                    <clef xml:id="clef_11335" shape="C" line="4"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Abbf1553d-bb21-47f2-b8a9-006bd7ef0363" dur="minima" oct="4" pname="c">
+                                        <verse xml:id="m-24c065f4-e046-4816-9a99-23e455e1f544" color="black" n="1">
+                                            <syl xml:id="m-b797529b-e0c9-43c0-82f2-d95722d2b4b8" con="b">63r.jpg,</syl>
+                                            <syl xml:id="m-7cea6418-1b4b-4a1a-bb70-717291efdf6c" con="b">p1,</syl>
+                                            <syl xml:id="m-4a2522a3-97ca-494b-ac86-1f7fae6bb9b7">s6</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Aac5620e4-c536-4563-84c2-7e5c2053c7ed" dur="minima" oct="4" pname="c"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A321fffde-6eab-4bf5-ae84-e09361b3b2ab" dur="semibrevis" oct="4" pname="d"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Aa1ad6821-9598-46dd-b477-3456ecaeaa66" dur="semibrevis" oct="4" pname="c"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A871ced71-3c75-4125-8d40-8795d052a388" dur="semibrevis" oct="3" pname="a"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A627c08b9-204b-4828-81a1-16cad5aaf474" dur="semibrevis" oct="3" pname="d"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A9f4a9cde-e829-4129-83ad-505cf6d14ddb" dur="brevis" oct="3" pname="a"/>
+                                    <rest xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A33a57db0-12f3-4883-abae-4223233a65ba" dur="brevis"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A2be5b6fd-c8b1-4c61-ba39-47c1db1e8235" dur="brevis" oct="3" pname="a"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A923fbe0d-a1d6-4a70-bd9a-8a5b1cfbe0c9" dur="brevis" oct="3" pname="b">
+                                        <accid xml:id="m-dea20378-d87b-4392-8444-f48c19c8b3df" accid="f"/>
+                                    </note>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A77e822cb-8640-42e7-a01e-b7800fb38ced" dur="brevis" oct="3" pname="a"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A7ea24a93-0e88-4c30-8aa0-f866191d6cd9" dur="brevis" oct="3" pname="f"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_Af95d8968-fa09-44f7-a285-df277a8ba7ef" dur="brevis" oct="3" pname="g"/>
+                                    <sb facs="#m4cd1188e-3511-41de-a79c-36d57df4f288" xml:id="spb_11337"/>
+                                    <clef xml:id="clef_11338" shape="C" line="4"/>
+                                    <note xml:id="PARTd0871de7-ae6c-4a9b-9340-a13ae470a25f_A0f1b68d6-d708-4bf9-92bf-254af27e6de4" dur="brevis" oct="3" pname="a">
+                                        <verse xml:id="m-369b8fd4-5fbf-4df0-8f74-ca6f5b8694c5" color="black" n="1">
+                                            <syl xml:id="m-e8be346f-24fc-456f-aa0d-bb112ae2791a" con="b">63r.jpg,</syl>
+                                            <syl xml:id="m-2c049968-cf62-467b-b2d1-4d9517fb31ac" con="b">p1,</syl>
+                                            <syl xml:id="m-b17d27cb-0be6-4298-95b5-919cb4aacc96">s7</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                        </section>
+                    </part>
+                </parts>
+            </mdiv>
+        </body>
+    </music>
+</mei>
