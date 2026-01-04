@@ -12,4 +12,11 @@ Opening the MEI scores in [mei-friend](https://mei-friend.mdw.ac.at) (please, op
 3. Play back the music (in midi keyboard)
 4. See and edit the MEI encoding
 
-For example, you can click on [here](https://mei-friend.mdw.ac.at/?file=&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=top&notationProportion=0.83&facsimileOrientation=bottom&facsimileProportion=0.42) to open the MEI file containing the score of the Kyrie movement of Mass 06 (Missa sobre las voces) by Cristóbal de Morales.
+For example, you can go to the folder [`GuatC1/06_Cristobal-de-Morales_Mass
+/Missa6.1_Kyrie_FullMovement_f17v-19r_MENSURAL_FULLSCORE.xml`](https://github.com/martha-thomae/GuatC1/blob/main/06_Cristobal-de-Morales_Mass/Missa6.1_Kyrie_FullMovement_f17v-19r_MENSURAL_FULLSCORE.xml), download the file (see screenshot), and then load it into [mei-friend](https://mei-friend.mdw.ac.at) by going into the _File_ menu and click on _Open file_.
+
+<img width="1260" height="1248" alt="Screenshot 2026-01-04 at 11 53 14 PM" src="https://github.com/user-attachments/assets/97d24974-2b38-41ac-a47e-768ca0be02f7" />
+
+When loading it into mei-friend, you will see the following screen:
+
+<img width="2560" height="1331" alt="Screenshot 2026-01-04 at 11 56 03 PM" src="https://github.com/user-attachments/assets/f6b87f5d-454b-4d09-a645-1010b6d8e4f5" />
