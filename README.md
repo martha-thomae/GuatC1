@@ -55,3 +55,9 @@ _Make sure to use Chrome or Firefox when opening the files (mei-friend does not 
 ## How were these scores obtained?
 
 The scores were obtained by performing OMR using MuRET and then scoring up the mensural voices using the Measuring Polyphony (MP) Editor. If you want to consult the results obtained by MuRET and by the MP Editor, please check the branch [`all_data_omr_and_mped`](https://github.com/martha-thomae/GuatC1/tree/all_data_omr_and_mped).
+
+----
+
+## Experiment
+
+If you want to consult the data of the experiment shown in ["Counterpoint Error-Detection Tools for Optical Music Recognition of Renaissance Polyphonic Music"](https://martha-thomae.github.io/assets/papers/thomae_2022_ismir_counterpoint_publication.pdf) paper, please check the [`Experiment` branch](https://github.com/martha-thomae/GuatC1/tree/Experiment).
