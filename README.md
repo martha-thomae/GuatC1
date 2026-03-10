@@ -4,18 +4,9 @@ This repository contains the scores of each of the works contained in the first 
 - **GCA-Gc 1**, according to the [Digital Image Archive of Medieval Music (DIAMM)](https://www.diamm.ac.uk/sources/985/)
 - **GCA-Gaha 1**, would be its correct siglum given its current location at the Archivo Histórico Arquidiocesano "Francisco de Paula García Peláez", Ciudad de Guatemala (GCA-Gaha) (see [RISM](https://rism.online/search?q=guatemala&mode=institutions&page=1&rows=40#institutions-30080989))
 
-This manuscript is a book of Masses, containing 12 masses (six copied from a book written by Gaspar Fernández in 1602 and six newly added by Manuel José de Quirós) and 15 short polyphonic pieces. Each of the individual folders contain the MEI files encoding the scores for each movement of the masses, or each section of the short polyphonic pieces.
+This manuscript is a book of Masses, containing 12 masses (six copied from a book written by Gaspar Fernández in 1602 and six newly added by Manuel José de Quirós) and 15 short polyphonic pieces, as listed below.
 
-## Take a look at the individual pieces in the choirbook!
-Take a look at the works included in the choirbook by clicking on the links provided in the table! These links will open the pieces in [_mei-friend_](https://mei-friend.mdw.ac.at) where you will be able to:
-1. Visualize the transcribed score
-2. Visualize the images of the original source containing this work
-3. Play back the music (in midi keyboard)
-4. See and edit the MEI encoding
-just like in the following image.
-<img width="2560" height="1331" alt="Screenshot 2026-01-04 at 11 56 03 PM" src="https://github.com/user-attachments/assets/f6b87f5d-454b-4d09-a645-1010b6d8e4f5" />
-
-_Make sure to use Chrome or Firefox when opening the files (mei-friend does not work well with Safari)._
+_If you click on any of the links provided in the table, please make sure you are using Chrome or Firefox (not Safari)._
 
 | No. | Title | Composer | Files |
 | --- | ----- | -------- | ----- |
@@ -46,6 +37,17 @@ _Make sure to use Chrome or Firefox when opening the files (mei-friend does not 
 | 25 | Surrexit Dominus vere | Anonymous | [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/25_Anonymous_Surrexit-Dominus-vere/Piece25_Surrexit-Dominus-vere_FullPiece_f189v-190r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54) |
 | 26 | Victimae paschali laudes | Francisco Guerrero | [Pars 1a, a 4](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/26_Francisco-Guerrero_Victimae-paschali-laudes/Piece26_Victimae-paschali-laudes_1aPars-a4_f190v-191r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54) - [Pars 2a, a 5](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/26_Francisco-Guerrero_Victimae-paschali-laudes/Piece26_Victimae-paschali-laudes_2aPars-a5_f191v-192r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54) |
 | 27 | Tantum ergo | Pedro Bermúdez | [Full Piece](https://mei-friend.mdw.ac.at/?file=https://raw.githubusercontent.com/martha-thomae/GuatC1/refs/heads/main/27_Bermudez_Tantum-ergo/Piece27_Tantum-ergo_FullPiece_f192v-193r_MensuralScore-and-Facsimile.xml&scale=31&breaks=none&select=PART0906de42-7bc1-47c4-afe7-5f04e6bcfcd4_A414df90d-62e4-4ef5-bb1c-111946ffc5aa&page=1&speed=true&notationOrientation=left&notationProportion=0.32&facsimileOrientation=bottom&facsimileProportion=0.54) |
+
+## Take a look at the individual pieces in the choirbook!
+Use any of the links provided in the table above to open these pieces in _**mei-friend**_ where you will be able to:
+1. Visualized the transcribed score, with editorial corrections marked in different color
+2. Consult the images of the original source containing the work
+3. Play back the music (in midi keyboard)
+4. Edit the MEI encoding further
+
+<img width="2560" height="1331" alt="Screenshot 2026-01-04 at 11 56 03 PM" src="https://github.com/user-attachments/assets/f6b87f5d-454b-4d09-a645-1010b6d8e4f5" />
+
+_Make sure to use Chrome or Firefox when opening the files (mei-friend does not work well with Safari)._
 
 ----
 
