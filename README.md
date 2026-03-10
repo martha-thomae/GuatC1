@@ -12,10 +12,16 @@ Opening the MEI scores in [mei-friend](https://mei-friend.mdw.ac.at) (please, op
 3. Play back the music (in midi keyboard)
 4. See and edit the MEI encoding
 
-For example, you can go to the file [`06_Cristobal-de-Morales_Mass/Missa6.1_Kyrie_FullMovement_f17v-19r_MensuralScore-and-Facsimile.xml`](06_Cristobal-de-Morales_Mass/Missa6.1_Kyrie_FullMovement_f17v-19r_MensuralScore-and-Facsimile.xml), download the file (see screenshot), and then load it into [mei-friend](https://mei-friend.mdw.ac.at) by going into the _File_ menu and click on _Open file_.
-
-<img width="1260" height="1248" alt="Screenshot 2026-01-04 at 11 53 14 PM" src="https://github.com/user-attachments/assets/97d24974-2b38-41ac-a47e-768ca0be02f7" />
-
-When loading it into mei-friend, you will see the following screen:
-
 <img width="2560" height="1331" alt="Screenshot 2026-01-04 at 11 56 03 PM" src="https://github.com/user-attachments/assets/f6b87f5d-454b-4d09-a645-1010b6d8e4f5" />
+
+----
+
+You can try it yourself! For example, you can go to the file [`06_Cristobal-de-Morales_Mass/Missa6.1_Kyrie_FullMovement_f17v-19r_MensuralScore-and-Facsimile.xml`](06_Cristobal-de-Morales_Mass/Missa6.1_Kyrie_FullMovement_f17v-19r_MensuralScore-and-Facsimile.xml), download the file (see screenshot), and then load it into [mei-friend](https://mei-friend.mdw.ac.at) by going into the _File_ menu and click on _Open file_.
+
+<img width="1260" height="1248" alt="Screenshot 2026-01-04 at 11 53 14 PM" src="https://github.com/user-attachments/assets/97d24974-2b38-41ac-a47e-768ca0be02f7" width="100"/>
+
+----
+
+## How were these scores obtained?
+
+The scores were obtained by performing OMR using MuRET and then scoring up the mensural voices using the Measuring Polyphony (MP) Editor. If you want to consult the results obtained by MuRET and by the MP Editor, please check the branch [`all_data_omr_and_mped`](https://github.com/martha-thomae/GuatC1/tree/all_data_omr_and_mped).
