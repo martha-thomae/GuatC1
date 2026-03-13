@@ -46,7 +46,7 @@ Use any of the links provided in the table above to open these pieces in _**mei-
 3. Play back the music (in midi keyboard)
 4. Edit the MEI encoding further
 
-<img width="2560" height="1331" alt="Screenshot 2026-01-04 at 11 56 03 PM" src="https://github.com/user-attachments/assets/f6b87f5d-454b-4d09-a645-1010b6d8e4f5" />
+<img width="1947" height="1247" alt="mei-friend-example_Mass11 4 2 - new" src="https://github.com/user-attachments/assets/e329a760-b225-4352-9c86-60f17afef5b2" />
 
 _Make sure to use Chrome or Firefox when opening the files (mei-friend does not work well with Safari)._
 
