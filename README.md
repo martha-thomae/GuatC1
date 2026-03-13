@@ -4,7 +4,7 @@ This repository contains the scores of each of the works contained in the first 
 - **GCA-Gc 1**, according to the [Digital Image Archive of Medieval Music (DIAMM)](https://www.diamm.ac.uk/sources/985/)
 - **GCA-Gaha 1**, would be its correct siglum given its current location at the Archivo Histórico Arquidiocesano "Francisco de Paula García Peláez", Ciudad de Guatemala (GCA-Gaha) (see [RISM](https://rism.online/search?q=guatemala&mode=institutions&page=1&rows=40#institutions-30080989))
 
-## Inventory of Works
+## Inventory of works
 This manuscript is a book of Masses, containing the 12 masses and 15 short polyphonic pieces listed below. Six masses come from a previous book, a _Libro de Kyries_ copied by Gaspar Fernandes, and the other six were added in the XVIII c. by José Manuel de Quirós (together with the short polyphonic pieces).
 
 _**Important Note:** If you click on any of the links provided in the table, please make sure you are using Chrome or Firefox (not Safari)._
@@ -42,7 +42,7 @@ _**Important Note:** If you click on any of the links provided in the table, ple
 \* _The "composer attribution" shown in the table was conducted by Guatemalan Musicologist **Omar Morales Abril**._
 
 
-## VIRTUAL EXHIBITION - Take a look at the individual pieces in the choirbook!
+## VIRTUAL EXHIBITION: Take a look at the individual pieces in the choirbook!
 Use any of the links provided in the table above to open these pieces in _**mei-friend**_ where you will be able to:
 1. Visualized the transcribed score, with editorial corrections marked in different color
 2. Consult the images of the original source containing the work
